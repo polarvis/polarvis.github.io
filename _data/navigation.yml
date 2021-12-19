@@ -2,11 +2,15 @@
 main:
   - title: "People"
     url: /people/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Courses"
+    url: /courses/
+  - title: "Software"
+    url: /software/
+  - title: "Data"
+    url: /data/
+  - title: "Publications"
+    url: /publications/
+  - title: "Guidelines"
+    url: /guidelines/
+  - title: "Join Us"
+    url: /joinus/
