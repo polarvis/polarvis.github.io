@@ -17,3 +17,9 @@ creating a new file inside this directory.  The pages directly accessible throug
 stored directly inside the directory, while other pages are stored in subfolders. In case a new main-menu page is 
 added, which would normally not happen without having discussed this first, it can be added to the menu by 
 modifying the file `_data/navigation.yml`.
+
+Before pushing changes to github, it can be useful to check the result locally. This can be done installing
+Jekyll and Bundler, and running the following command, that will create a local server where the new site
+can be inspected:
+
+    bundle exec jekyll serve
