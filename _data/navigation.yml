@@ -2,15 +2,15 @@
 main:
   - title: "People"
     url: /people/
-  - title: "Courses"
-    url: /courses/
+  - title: "Research"
+    url: /research/
+  - title: "Education"
+    url: /education/
   - title: "Software"
     url: /software/
   - title: "Data"
     url: /data/
   - title: "Publications"
     url: /publications/
-  - title: "Guidelines"
-    url: /guidelines/
   - title: "Join Us"
     url: /joinus/
