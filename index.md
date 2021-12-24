@@ -9,23 +9,21 @@ header:
 excerpt: "Dept. of Information Technology<br/>Ångströmlaboratoriet"
 ---
 
-<div>
-<h2>About us</h2>
+## About us
 
-<div>
 At the Uppsala University Information Laboratory (UU-Infolab) we do basic and applied research on
 the extraction of knowledge from social data. We develop models, methods, methodologies, and
 software to analyse multilayer, temporal, textual, visual, and probabilistic information networks,
 that we use to capture complex aspects of contemporary social data, such as heterogenity, velocity,
 unstructuredness, and uncertainty.
+
 Our applications include the analysis of online political communication and the study of online
 disinformation.
-</div>
 
-<h2>Contact</h2>
-<div>
-Our offices are on the 5th floor of the Ångström Laboratory, House 10.
-</div>
-<div>
-All inquiries regarding our activities can be sent to <a href="mailto:matteo.magnani@it.uu.se">matteo.magnani@it.uu.se</a>.
-</div>
+
+## Contact
+
+You can find us on the 5th floor of the Ångström Laboratory, House 10.
+
+All inquiries regarding the lab's activities can be sent to <a href="mailto:matteo.magnani@it.uu.se">matteo.magnani@it.uu.se</a>.
+
