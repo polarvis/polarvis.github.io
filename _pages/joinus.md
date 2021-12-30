@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Join Us
 permalink: /joinus/
 ---
