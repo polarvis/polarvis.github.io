@@ -6,6 +6,44 @@ permalink: /people/
 
 ## Current resident members
 
+<table>
+  <tr>
+      <td width="25%">
+        <img src="/assets/images/people/matteo.png" alt="Matteo Magnani" width="100%" />
+        <br/>
+        Matteo Magnani, Assoc. Professor
+      </td>
+      <td width="25%">
+        <img src="/assets/images/people/anon.png" alt="Christian Rohner" width="100%" />
+        <br/>
+        Christian Rohner, Professor
+      </td>
+      <td width="25%">
+        <img src="/assets/images/people/anon.png" alt="Davide Vega" width="100%" />
+        <br/>
+        Davide Vega, Assistant Professor
+      </td>
+      <td width="25%">
+        <img src="/assets/images/people/anon.png" alt="Amin Kaveh" width="100%" />
+        <br/>
+        Amin Kaveh, PhD Student
+      </td>
+  </tr>
+  <tr>
+      <td>
+        <img src="/assets/images/people/anon.png" alt="Nora Al-Naami" width="100%" />
+        <br/>
+        Nora Al-Naami, PhD Student
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+  </tr>
+</table>
+
 - [Matteo Magnani](https://www.it.uu.se/katalog/search.php?name=Matteo%20Magnani), Associate Professor (docent), group leader
 - [Christian Rohner](https://www.it.uu.se/katalog/search.php?name=Christian%20Rohner), Professor
 - [Davide Vega D'Aurelio](https://www.it.uu.se/katalog/search.php?name=Davide%20Vega%20D%27Aurelio), Assistant Professor
