@@ -1,0 +1,117 @@
+# People
+- year: 2021
+  name: Katarzyna Kowalczyk
+  role: MSc student
+  thesis: The configuration model for multi-layer networks formation
+  url:
+- year: 2021
+  name: Jonas Olsson
+  role: MSc student
+  thesis: Modeling topics and semantic similarity with data from YouTube community discussions on climate change
+  url:
+- year: 2021
+  name: Nithesh Chandher Karthikeyan
+  role: MSc student
+  thesis: Analysis of visual political communication on YouTube
+  url:
+- year: 2021
+  name: Simon Wallbing
+  role: BSc student
+  thesis: Computational Analysis of Swedish Newspapers Using Topic Detection and Sentiment Analysis
+  url:
+- year: 2021
+  name: Alfred Nilsson
+  role: BSc student
+  thesis: Implementing and Evaluating Clustering Methods for Large Probabilistic Graphs
+  url:
+- year: 2021
+  name: Tyson McLeod
+  role: MSc student
+  thesis: Designing an algorithm to build communities by combining semi-cliques spanning multiple graphs
+  url:
+- year: 2021
+  name: Rinyarat Buakhao
+  role: BSc student
+  thesis: A comparative evaluation of network mining methods with and without graph embedding
+  url:
+- year: 2020
+  name: Agaton Svenaeus
+  role: MSc student
+  thesis: Fantastic bots and where to find them
+  url:
+- year: 2020
+  name: Oskar Dahlin
+  role: BSc student
+  thesis: Implementing and Evaluating sparsification methods in probabilistic networks
+  url:
+- year: 2020
+  name: Pelle Ingvast
+  role: BSc student
+  thesis: Analysis of the online Swedish political discourse
+  url:
+- year: 2020
+  name: Sinae Lee
+  role: BSc student
+  thesis: Dictionary extension for topic analysis of Swedish online texts
+  url:
+- year: 2019
+  name: Anton Norberg
+  role: MSc student
+  thesis: Mapping Swedish Parties by Subject Participation on Twitter
+  url:
+- year: 2019
+  name: Fredrik Jonasson
+  role: BSc student
+  thesis: A system for GDPR-compliant collection of social media data - from legal to software requirements
+  url:
+- year: 2019
+  name: Man Dan Ly
+  role: BSc student
+  thesis: Text to features for Swedish text
+  url:
+- year: 2018
+  name: Nam Nguyen-Hai
+  role: MSc student
+  thesis: Pattern Detection in Bipartite Temporal Network
+  url:
+- year: 2018
+  name: Axel Lindegren
+  role: MSc student
+  thesis: Partitioning temporal networks - A study of finding the optimal partition of temporal networks using community detection
+  url:
+- year: 2018
+  name: Patrik Seiron
+  role: BSc student
+  thesis: Random Reference Models and Network Rewiring in Temporal Network Clustering
+  url:
+- year: 2018
+  name: Hampus Falk
+  role: BSc student
+  thesis: Measure development and social media analysis using temporal text networks
+  url:
+- year: 2017
+  name: Mikael Dubik
+  role: MSc student
+  thesis: A comparative evaluation of state-of-the-art community detection algorithms for multiplex networks
+  url:
+- year: 2017
+  name: Nazanin Afsarmanesh
+  role: MSc student
+  thesis: Clustering Multilayer Networks
+  url:
+- year: 2017
+  name: Victor Morel
+  role: MSc student
+  thesis: Generating co-evolutionary polarized opinion networks
+  url:
+- year: 2017
+  name: Ismail Elouafiq
+  role: MSc student
+  thesis: Implementation and Simulation Study of Methods for the Evolution of Interdependent Networks
+  url:
+- year: 2017
+  name: Kristofer Sundequist Blomdahl
+  role: BSc student
+  thesis: An evaluation of random-walk based clustering of multiplex networks
+
+
