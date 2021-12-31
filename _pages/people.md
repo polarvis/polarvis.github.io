@@ -4,54 +4,24 @@ title: People
 permalink: /people/
 ---
 
-## Current resident members
+## Current members
 
-<table>
-  <tr>
-      <td width="25%">
-        <img src="/assets/images/people/matteo.png" alt="Matteo Magnani" width="100%" />
-        <br/>
-        Matteo Magnani, Assoc. Professor
-      </td>
-      <td width="25%">
-        <img src="/assets/images/people/anon.png" alt="Christian Rohner" width="100%" />
-        <br/>
-        Christian Rohner, Professor
-      </td>
-      <td width="25%">
-        <img src="/assets/images/people/anon.png" alt="Davide Vega" width="100%" />
-        <br/>
-        Davide Vega, Assistant Professor
-      </td>
-      <td width="25%">
-        <img src="/assets/images/people/anon.png" alt="Amin Kaveh" width="100%" />
-        <br/>
-        Amin Kaveh, PhD Student
-      </td>
-  </tr>
-  <tr>
-      <td>
-        <img src="/assets/images/people/anon.png" alt="Nora Al-Naami" width="100%" />
-        <br/>
-        Nora Al-Naami, PhD Student
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-  </tr>
-</table>
+<div class="profiles"> 
+{% for person in site.data.people %}
+<div class="profile">
+  <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
+  <div class="profiletext">
+  <p>{{ person.name }} <br/> {{ person.title }}</p>
+  </div>
+</div>
+{% endfor %}
+<div class="stop"/>
+</div>
 
-- [Matteo Magnani](https://www.it.uu.se/katalog/search.php?name=Matteo%20Magnani), Associate Professor (docent), group leader
-- [Christian Rohner](https://www.it.uu.se/katalog/search.php?name=Christian%20Rohner), Professor
-- [Davide Vega D'Aurelio](https://www.it.uu.se/katalog/search.php?name=Davide%20Vega%20D%27Aurelio), Assistant Professor
-- [Amin Kaveh](https://www.it.uu.se/katalog/search.php?name=Amin%20Kaveh&exact=yes), PhD student
-- [Nora Al-Naami](), PhD student (with LIST Luxembourg)
-- Robin Larsson, BSc student
 
-### Associate members
+## Associate members
+
+### Associate members are affiliated with other Departments or Universities, but actively contribute to the Infolab, for example as project co-Principal Investigators or as co-supervisors of junior members. 
 
 - Mohammad Ghoniem, Lead Researcher, Luxembourg Institute of Science and Technology
 - Luca Rossi, Associate professor, IT University of Copenhagen
