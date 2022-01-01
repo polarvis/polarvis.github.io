@@ -2,14 +2,23 @@
 layout: infolab-toplevel
 title: Education
 permalink: /education/
+toc: true
 ---
 
-## Courses at Uppsala University
+The following courses on topics related to our research are given by members of the Infolab. Normally, students willing to work on a master thesis with us are required to have read at least an introductory course in Data Mining, and PhD students must take the Network Science and the Readings in Network Science courses. 
 
-At Uppsala University, courses given by members of the lab that are particularly relevant are:
-* The Bachelor-level [Introduction to computational social science](http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DLxxx)
-* The Master-level [Data Mining I](http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL360) and [Data Mining](http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL370)
-* The PhD-level [Network Science](../netsciphd/netsciphd2020) and [Readings in Network Science](../netsciphd/netscireadings2018).
-Normally, students willing to work on a master thesis at the lab are required to have taken a Data Mining course, and PhD students must take the Network Science and the Readings in Network Science courses. 
+## Regularly given courses
 
-We also regularly give courses and tutorials at other international venues. Past venues include the ESSLLI school and the SunBelt, IC2S2, Asonam, ICWSM, SocInfo and ARS conferences.
+{% for course in site.data.courses %}
+
+### [{{ course.name }}]({{ course.url }})
+
+**Level:** {{ course.level }}. **Frequency:** {{ course.frequency }}<br/>
+**Description:** *{{ course.description }}*<br/>
+
+{% endfor %}
+
+
+## Tutorials
+
+We regularly give tutorials at international venues (past venues include the ESSLLI school and the SunBelt, IC2S2, Asonam, ICWSM, SocInfo and ARS conferences). The material for the tutorials on multilayer network analysis is available on the GitHub pages of our [R library]() and [Python library]().

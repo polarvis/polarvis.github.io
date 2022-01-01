@@ -1,0 +1,32 @@
+# Courses
+
+- name: "Introduction to computational social science"
+  level: "Bachelor"
+  frequency: "Once a year"
+  url: "http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL007"
+  description: "The course introduces computational approaches to model human behaviour and social phenomena. Core concepts in computational social science are covered, such as observational studies (what types of data exist, possible biases and how to use data for modelling), basic concepts and techniques for running experiments (asking vs. observing, natural experiments, simulations, validity and generalisation) and discuss key issues such as ethical considerations. The course has both a theoretical and a practical perspective, where students learn basic principles and also how to apply them in practice in three main areas: social network analysis, text analysis, and agent-based modelling and simulation."
+  
+- name: "Data Mining I"
+  level: "Master"
+  frequency: "Twice a year"
+  url: "http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL007"
+  description: "Introduction to data mining, its terminology and overview over various types of data (for example tables, text, graphs) and its properties, an overview of different methods to explore large amounts of data, data preprocessing (for example normalization, PCA), introduction to classification methods (for example k-NN, C4.5), introduction to clustering methods (for example k-means, single-link, DB-Scan, graph clustering algorithms), introduction to association analysis (for example a priori), handling of personal integrity in the area of data mining, validation. The subjects are treated both theoretically and practically through laboratory sessions where selected methods are implemented and tested on typical amounts of data."
+  
+- name: "Data Mining"
+  level: "Master"
+  frequency: "Once a year"
+  url: "http://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL370"
+  description: "This is an extended version of Data Mining I, not covering classification methods (that are expected as a prerequisite) and going more in depth in the areas of association analysis and cluster validation. A project consists in studying and replicating state-of-the-art methods from the literature."
+  
+- name: "Network Science"
+  level: "PhD"
+  frequency: "Every second year"
+  url: "courses/networkscience_phd"
+  description: "An introduction to the field of Network Science targeted to PhD students in all disciplinary domains. After introducing the basic terminology and concepts, (guest) lectures on specific topics and a review of selected literature allow the students to go momre in depth in their own domain."
+  
+- name: "Readings in Network Science"
+  level: "PhD"
+  frequency: "At any time, depending on interest"
+  url: "courses/readings_in_ns"
+  description: "This course consists in reading literature in network science and discussing it in monthly meetings."
+  
