@@ -1,0 +1,121 @@
+# Multilayer networks
+
+- name: "florentine"
+  type: "multirelational"
+  mat: "N"
+  met: "Y"
+  attr: "Y (numeric)"
+  layers: 2
+  actors: 16
+  edges: 35
+  bibtex: "florentine.bib"
+  description: "These data, collected by John Padgett from historical documents, describe relations among 16 politically prominent families in the city of Florence around the year 1430: business ties (specifically, recorded  financial ties such as loans, credits, and joint partnerships) and marriage alliances. Two factions appear in the data, with families strongly related to the Medici or to the Strozzi family, making the data useful for testing community detection methods. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+
+- name: "monastery"
+  type: "multirelational"
+  mat: "N"
+  met: "Y"
+  attr: "Y (ranks)"
+  layers: 10
+  actors: 18
+  edges: 510
+  bibtex: "sampson.bib"
+  description: "A group of monks was asked to specify their top three choices on four pairs of positive/negative relations: esteem and disesteem, liking and disliking, positive influence and negative influence, praise and blame. The limit of the top three preferences imposed in the survey can bias the results of measures based on degree, as the out-degree of each actor is 3 by construction of the data. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+  
+- name: "bankwiring"
+  type: "multirelational"
+  mat: "N"
+  met: "Y"
+  attr: "Y (numeric)"
+  layers: 6
+  actors: 14
+  edges: 110
+  bibtex: "bankwiring.bib"
+  description: "These data, first presented by Roethlisberger and Dickson (1939), describe 14 employees of the Hawthorne Plant (Western Electric) working in the bank wiring room. The employees had different roles (two inspectors, three solderers and nine wiremen or assemblers), making the data useful to test role/position detection methods. The available layers describe: participation in horseplay; participation in arguments about open windows; friendship; antagonistic (negative) behavior; helping others with work; and the number of times workers traded job assignments. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+
+- name: "tailorshop"
+  type: "multirelational"
+  mat: "N"
+  met: "Y"
+  attr: "N"
+  layers: 4
+  actors: 39
+  edges: 552
+  bibtex: "tailorshop.bib"
+  description: "Collected by Kapferer (1972), these data represent work and friendship interactions among 39 workers in a tailor shop. Two versions of the social network are available, recorded at two different times. More information is available at the <a href=\"http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm\">UCINet</a> dataset archive"
+  url: "http://vlado.fmf.uni-lj.si/pub/networks/data/UciNet/UciData.htm"
+
+- name: "aucs"
+  type: "hybrid"
+  mat: "N"
+  met: "Y"
+  attr: "Y (categorical)"
+  layers: 5
+  actors: 61
+  edges: 620
+  bibtex: "aucs.bib"
+  description: "These anonymized data, described by Rossi and Magnani (2015), were collected at a University research department and include 5 online and offline layers. The population of the study consists of 61 employees (out of the total number of 142) who decided to join the survey, including professors, postdoctoral researchers, PhD students and administration staff. The role and anonymized research group of each actor is also specified as an attribute."
+  url: "https://drive.google.com/drive/folders/0B_M5Zh3gg4LkNWZ5WmpoRlJhMVE?usp=sharing"
+
+- name: "ff-tw"
+  type: "social media: multi platform"
+  mat: "N"
+  met: "Y"
+  attr: "N"
+  layers: 2
+  actors: 155804
+  edges: 13657550
+  bibtex: "fftw.bib"
+  description: "This anonymized dataset has been obtained starting from Friendfeed, a social media aggregator (Magnani and Rossi, 2011). In this system while users can directly post messages and comment on other messages much like in Facebook and other similar OSNs, they can also register their accounts on other systems. The original data acquisition consists of 322 967 users who registered at least one service outside Friendfeed, with a total number of 1 587 273 services. From these, two multilayer networks were retrieved, one with users who registered exactly one Twitter account and whose Twitter account was associated to exactly one Friendfeed account (ff-tw) and one smaller dataset with an additional YouTube layer (ff-tw-yt)."
+  url: "https://drive.google.com/drive/folders/0B_M5Zh3gg4LkNWZ5WmpoRlJhMVE?usp=sharing"
+  
+- name: "ff-tw-yt"
+  type: "social media: multi platform"
+  mat: "N"
+  met: "Y"
+  attr: "N"
+  layers: 3
+  actors: 6407
+  edges: 74862
+  bibtex: "fftwyt.bib"
+  description: "This anonymized dataset has been obtained starting from Friendfeed, a social media aggregator (Magnani and Rossi, 2011). In this system while users can directly post messages and comment on other messages much like in Facebook and other similar OSNs, they can also register their accounts on other systems. The original data acquisition consists of 322 967 users who registered at least one service outside Friendfeed, with a total number of 1 587 273 services. From these, two multilayer networks were retrieved, one with users who registered exactly one Twitter account and whose Twitter account was associated to exactly one Friendfeed account (ff-tw) and one smaller dataset with an additional YouTube layer (ff-tw-yt)."
+  url: "https://drive.google.com/drive/folders/0B_M5Zh3gg4LkNWZ5WmpoRlJhMVE?usp=sharing"
+
+- name: "friendfeed"
+  type: "social media: single platform"
+  mat: "N"
+  met: "Y"
+  attr: "Y (numeric)"
+  layers: 3
+  actors: 510896
+  edges: 20330701
+  bibtex: "friendfeed.bib"
+  description: "This large anonymized dataset contains public interactions among users of Friendfeed collected over two months. Commenting, liking and following constitute the three layers, defining a contact and interaction multilayer social network. The number of interactions (comments and likes) is specified as an edge attribute."
+  url: "https://drive.google.com/drive/folders/0B_M5Zh3gg4LkNWZ5WmpoRlJhMVE?usp=sharing"
+
+- name: "friendfeed-ita"
+  type: "social media: single platform"
+  mat: "N"
+  met: "Y"
+  attr: "Y (numeric)"
+  layers: 3
+  actors: 21006
+  edges: 573600
+  bibtex: "friendfeed.bib"
+  description: "This  anonymized dataset contains public interactions among users of Friendfeed collected over two months. Commenting, liking and following constitute the three layers, defining a contact and interaction multilayer social network. The number of interactions (comments and likes) is specified as an edge attribute. It is a subset of the friendfeed dataset, only keeping information about italian users, marked as italian using a language recognition software applied to user posts."
+  url: "https://drive.google.com/drive/folders/0B_M5Zh3gg4LkNWZ5WmpoRlJhMVE?usp=sharing"
+
+- name: "dblp-ppc"
+  type: "bibliography"
+  mat: "Y"
+  met: ""
+  attr: "Y (mixed)"
+  layers: 3
+  actors: 108408
+  edges: 222510
+  bibtex: "dblp.bib"
+  description: "This tripartite dataset has be obtained from the DBLP repository. The layers correspond to people, papers and conferences. Title and year of paper, as well as conference classification, are also indicated as attributes. A selection of major conferences in databases, data mining, information retrieval and AI have been included."
+  url: "https://drive.google.com/drive/folders/0B_M5Zh3gg4LkNWZ5WmpoRlJhMVE?usp=sharing"
