@@ -11,10 +11,10 @@ toc: true
 
 **{{ dataset.name }}**
 
-Layers: {{ dataset.layers }} Actors: {{ dataset.actors }} Edges: {{ dataset.edges }}<br/>
-Multi-actor types: {{ dataset.mat }} Multi-edge types: {{ dataset.met }} Attributes: {{ dataset.attr }}<br/>
-*{{ dataset.description }}*<br/>
-[data]({{ dataset.url }}) [bibtex](/assets/bib/data/{{ dataset.bibtex }})
+**Layers:** {{ dataset.layers }}; **Actors:** {{ dataset.actors }}; **Edges:** {{ dataset.edges }}.<br/>
+**Multi-actor types:** {{ dataset.mat }}; **Multi-edge types:** {{ dataset.met }}; **Attributes:** {{ dataset.attr }}<br/>
+**Description:** *{{ dataset.description }}*<br/>
+**Links:** [data]({{ dataset.url }}) [bibtex](/assets/bib/data/{{ dataset.bibtex }})
 
 {% endfor %}
 

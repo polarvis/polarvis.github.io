@@ -31,7 +31,7 @@ If you are interested, please send an email to the person responsible for the pr
 
 This section collects some information about how we do research.
 
-### Expected presence
+### Expected availability
 
 Given the creative nature of part of our work, Infolab members are generally free to work at the times and place that best fit them, compatibly with tasks requiring presence (e.g., teaching) and regulations that may be inforced by the Department or University.
 
