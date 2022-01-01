@@ -2,69 +2,48 @@
 layout: infolab-toplevel
 title: Research
 permalink: /research/
+toc: true
 ---
 
 ## Research areas
 
-- Multilayer networks
+### Feature-rich networks
 
-The following papers provide overviews of specific sub-topics in multilayer social networks, in some cases covering methods developed after the publication of the book. http://www.cambridge.org/ge/academic/subjects/computer-science/computing-and-society/multilayer-social-networks?format=PB
-<br/><br/>
-<b>(on the library)</b>
-<br/>Matteo Magnani, Luca Rossi and Davide Vega. <a href="papers/jss.pdf" target="_blank">Multiplex network analysis with R</a>. Journal of Statistical Software. (accepted for publication)
-<br/><br/>
-<b>(on pre-processing)</b>
-<br/>Roberto Interdonato, Matteo Magnani, Diego Perna, Andrea Tagarelli and Davide Vega. <a href="http://arxiv.org/abs/2004.14808" target="_blank">Multilayer network simplification: approaches, models and methods</a>. Computer Science Review, Elsevier. (accepted for publication)
-<br/><br/>
-<b>(on layer comparison)</b>
-<br/>Piotr Brodka, Anna Chmiel, Matteo Magnani and Giancarlo Ragozini (2018). <a href="papers/18rsos.pdf" target="_blank">Quantifying layer similarity in multiplex networks: a systematic study</a>. Royal Society Open Science, 5(8).
-<br/><br/>
-<b>(on community detection)</b>
-<br/>Obaida Hanteer, Roberto Interdonato, Matteo Magnani, Luca Rossi and Andrea Tagarelli. <a href="https://arxiv.org/abs/1910.07646" target="_blank">Community Detection in Multiplex Networks</a>. (under submission).
-<br/><br/></b> C&eacute;cile Bothorel, Juan David Cruz, Matteo Magnani, and Barbora Micenkova (2015). <a href="papers/15NetworkScience.pdf" target="_blank">Clustering Attributed Graphs: Models, Measures and Methods</a>. Network Science 3 (3). Cambridge University Press: 408–44.
-<br/><br/>
-<b>(on diffusion/propagation)</b>
-<br/>Mostafa Salehi, Rajesh Sharma, Moreno Marzolla, Matteo Magnani, Payam Siyari, and Danilo Montesi (2015). <a href="papers/15TNSE.pdf" target="_blank">Spreading Processes in Multilayer Networks</a>. IEEE Transactions on Network Science and Engineering 2 (2): 65–83.
-</p>
-<h2>Other resources</h2>
-<p>
-The following is the first work where we introduced a multilayer model for social network analysis:<br/>
-<br/>Matteo Magnani and Luca Rossi (2011). <a href="papers/11asonam.pdf" target="_blank">The ML-Model for Multi-Layer Social Networks</a>. International conference on social network analysis and mining (ASONAM). IEEE.
+Networks have been a popular model to study social systems for more than one century, and their applicability has increased in the last decades thanks to the increase in access to social data, for example from online social networks. However, contemporary social data can very heterogeneous, consisting of different types of actors and social ties, multimedia content, and temporal information. In addition, relevant social connections are often not directly available in the data, which implies that we cannot be certain about which connections exist. Therefore, at the Infolab we study extended network models that can be used to represent the complexity of contemporary social data.
 
-- Visual political communication
+One model we have extensively studied since 2011[^ml-model] are multilayer networks. In addition to original research articles, we have also produced material to organise some of the vast knowledge in this area: our [book](http://www.cambridge.org/ge/academic/subjects/computer-science/computing-and-society/multilayer-social-networks?format=PB) on multilayer social networks, our [libraries for multilayer network analysis](/software)[^library], and various survey articles on preprocessing[^simplification], layer comparison[^comparison], community detection[^detection], and diffusion processes[^diffusion].
 
-- Online Disinformation
+[^ml-model]: Matteo Magnani and Luca Rossi (2011). <a href="papers/11asonam.pdf" target="_blank">The ML-Model for Multi-Layer Social Networks</a>. International conference on social network analysis and mining (ASONAM). IEEE.
 
-- Imperfect data
+[^library]: Matteo Magnani, Luca Rossi and Davide Vega. <a href="papers/jss.pdf" target="_blank">Multiplex network analysis with R</a>. Journal of Statistical Software.
 
+[^simplification]: Roberto Interdonato, Matteo Magnani, Diego Perna, Andrea Tagarelli and Davide Vega. <a href="http://arxiv.org/abs/2004.14808" target="_blank">Multilayer network simplification: approaches, models and methods</a>. Computer Science Review, Elsevier.
+
+[^comparison]: Piotr Brodka, Anna Chmiel, Matteo Magnani and Giancarlo Ragozini (2018). <a href="papers/18rsos.pdf" target="_blank">Quantifying layer similarity in multiplex networks: a systematic study</a>. Royal Society Open Science, 5(8).
+
+[^detection]: Obaida Hanteer, Roberto Interdonato, Matteo Magnani, Luca Rossi and Andrea Tagarelli. <a href="https://arxiv.org/abs/1910.07646" target="_blank">Community Detection in Multiplex Networks</a>, and C&eacute;cile Bothorel, Juan David Cruz, Matteo Magnani, and Barbora Micenkova (2015). <a href="papers/15NetworkScience.pdf" target="_blank">Clustering Attributed Graphs: Models, Measures and Methods</a>. Network Science 3 (3). Cambridge University Press: 408–44.
+
+[^diffusion]: Mostafa Salehi, Rajesh Sharma, Moreno Marzolla, Matteo Magnani, Payam Siyari, and Danilo Montesi (2015). <a href="papers/15TNSE.pdf" target="_blank">Spreading Processes in Multilayer Networks</a>. IEEE Transactions on Network Science and Engineering 2 (2): 65–83.
+
+### Online information networks
+
+Our main application area is the study on online communication. Two current areas of applied research are online disinformation and visual political communication.
 
 
 ## Sponsors
 
-The group is or has been funded by the following projects:
+The Infolab is or has been funded by the following projects:
 
-CIRCUS
-- Project
-- Network
+{% for projlist in site.data.projects %}
+### {{ projlist.scope }}
 
-Uppsala University
-- AI4Research initiative (2020-2021)
-- scheme for the development of interdisciplinary education (computational social science).
+{% for proj in projlist.projects %}
+**{{ proj.title }}**<br/>
+Funding from: {{ proj.funder }}<br/>
+Period: {{ proj.years }}<br/>
+{% endfor %}
 
-NOS-HS
-- workshop grant 2018-00080/NOS-HS: Online disinformation: an integrated view (2019-2020).
+{% endfor %}
 
-European Union:
-- NORDIS: 
-- VIRT-EU: Values and Ethics in Innovation for Responsible Technology in Europe. The European Union’s Horizon 2020 research and innovation programme under grant agreement No 727040 (2017-2019).
 
-STINT
-- initiation grant for the establishment of a joint research project on temporal network mining with TokyoTech, 2017-2018.
-
-Erasmum Mundus
-- scholarship for lecturing at the ESSLLI graduate school, July 2017.
-
-The establishment of the lab was made possible thanks to previous funding of the PI.
-
-MIUR
-- Information monitoring, propagation analysis and community detection in social network sites. Italian Ministry for Education, University and Research FIRB project RBFR107725 (2012-2016)
+We also thank Uppsala University for providing funding to create the International Master's programme in Data Science (started in the Fall 2020) and our interdisciplinary introductory course on computational social science (first taught in the Spring 2022), and the Division of Computing Science at the Department of Information Technology for continuous support.
