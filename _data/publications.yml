@@ -1,0 +1,218 @@
+# Publications
+
+- year: 2021
+  publications:
+  
+    - title: "Defining and measuring probabilistic ego networks"
+      type: "article"
+      author: Amin Kaveh, Matteo Magnani, and Christian Rohner
+      journal: "Social Network Analysis and Mining"
+      volume: 11
+      number:
+      year: 2021
+      doi:
+      fulltext:
+      git:
+    - title: "Probabilistic network sparsification with ego betweenness"
+      type: "article"
+      author: Amin Kaveh, Matteo Magnani, and Christian Rohner
+      journal: Applied Network Science
+      publisher: "Springer Nature"
+      volume: 6
+      number:
+      year: 2021
+      doi:
+      fulltext:
+      git:
+    - title: "Analysis of Multiplex Social Networks with R"
+      type: "article"
+      author: Matteo Magnani, Luca Rossi, and Davide Vega
+      journal: "Journal of Statistical Software"
+      publisher: "Foundation for Open Access Statistic"
+      volume: 98
+      number: 8
+      year: 2021
+      doi:
+      fulltext:
+      git:
+
+    - title: "Community Detection in Multiplex Networks"
+      type: "article"
+      author: Matteo Magnani, Obaida Hanteer, Roberto Interdonato, Luca Rossi, and Andrea Tagarelli
+      journal: "ACM Computing Surveys"
+      volume: 54
+      number:  3
+      year: 2021
+      doi:
+      fulltext:
+      git:
+
+    - title: "On the conditions for integrating deep learning into the study of visual politics"
+      type: "in-proceedings"
+      author: Matteo Magnani and Alexandra Segerberg
+      conference: "13th ACM Web Science Conference (WebSci)"
+      year: 2021
+      doi:
+      fulltext:
+      git:
+
+- year: 2020
+  publications:
+  
+    - title: "Unspoken Assumptions in Multi-layer Modularity maximization"
+      type: "article"
+      author: Obaida Hanteer and Matteo Magnani
+      journal: "Scientific Reports"
+      volume: 10
+      number: 1
+      year: 2020
+      doi:
+      fulltext:
+      git:
+
+    - title: "Multilayer network simplification: Approaches, models and methods"
+      type: "article"
+      author: Roberto Interdonato, Matteo Magnani, Diego Perna, Andrea Tagarelli, and Davide Vega
+      journal: "Computer Science Review"
+      volume: 36
+      number:
+      year: 2020
+      doi:
+      fulltext:
+      git:
+
+    - title: "A Twitter-Based Study of the European Internet of Things"
+      type: "article"
+      author: Ustek-Spilda, Davide Vega, Matteo Magnani, Luca Rossi, Irina Shklovski, Sebastian Lehuede, and Alison Powell
+      journal: "Information Systems Frontiers"
+      volume: 23
+      number: 1
+      year: 2020
+      pages: "135-149"
+      doi:
+      fulltext:
+      git:
+
+- year: 2019
+  publications:
+  
+    - title: "Comparing node degrees in probabilistic networks"
+      type: "article"
+      author: Amin Kaveh, Matteo Magnani, and Christian Rohner
+      journal: "Journal of Complex Networks"
+      volume: 7
+      number: 5
+      year: 2019
+      pages: "749-763"
+      doi:
+      fulltext:
+      git:
+
+    - title: "Local measures for probabilistic networks"
+      type: "thesis"
+      author: Amin Kaveh
+      description: "Licentiate thesis, IT licentiate theses / Uppsala University, Department of Information Technology"
+      number: "2019-004"
+      year: 2019
+      doi:
+      fulltext:
+      git:
+
+    - title: "An Analysis of the Consequences of the General Data Protection Regulation on Social Network Research"
+      type: "article"
+      author: Andreas Kotsios, Matteo Magnani, Davide Vega, Luca Rossi, and Irina Shklovski
+      journal: "ACM Transactions on Social Computing"
+      volume: 2
+      number: 3
+      year: 2019
+      doi:
+      fulltext:
+      git:
+
+    - title: "Metrics for Temporal Text Networks"
+      type: "chapter"
+      author: Davide Vega and Matteo Magnani
+      book: "Temporal Network Theory"
+      year: 2019
+      pages: "147-160"
+      doi:
+      fulltext:
+      git:
+
+- year: 2018
+  publications:
+  
+    - title: "Quantifying layer similarity in multiplex networks: a systematic study"
+      type: "article"
+      author: Piotr Brodka, Anna Chmiel, Matteo Magnani, and Giancarlo Ragozini
+      journal: Royal Society Open Science
+      volume: 5
+      number: 8
+      year: 2018
+      doi:
+      fulltext:
+      git:
+
+    - title: "A generalized force-directed layout for multiplex sociograms"
+      type: "in-proceedings"
+      author: Zahra Fatemi, Matteo Magnani, and Mostafa Salehi
+      conference: "10th International Conference (SocInfo)"
+      year: 2018
+      pages: "212-227"
+      doi:
+      fulltext:
+      git:
+
+    - title: "From Interaction to Participation: The Role of the Imagined Audience in Social Media Community Detection and an Application to Political Communication on Twitter"
+      type: "in-proceedings"
+      author: Obaida Hanteer, Luca Rossi, Davide Vega, and Matteo Magnani
+      conference: "IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM)"
+      year: 2018
+      pages: "531-534"
+      doi:
+      fulltext:
+      git:
+
+    - title: "Partial and Overlapping Community Detection in Multiplex Social Networks"
+      type: "in-proceedings"
+      author: Nazanin Afsarmanesh Tehrani and Matteo Magnani
+      conference: "10th International Conference on Social Informatics (SocInfo2018)"
+      year: 2018
+      pages: "15-28"
+      doi:
+      fulltext:
+      git:
+
+    - title: "Foundations of Temporal Text Networks"
+      type: "article"
+      author: Davide Vega and Matteo Magnani
+      journal: Applied Network Science
+      volume: 3
+      number: 25
+      year: 2018
+      doi:
+      fulltext:
+      git:
+
+- year: 2017
+  publications:
+
+    - title: "A Join Operator for Property Graphs"
+      type: "in-proceedings"
+      author: Giacomo Bergami, Matteo Magnani, and Danilo Montesi
+      conference: "EDBT/ICDT Workshops"
+      year: 2017
+      doi:
+      fulltext:
+      git:
+
+    - title: "Shortest Paths in Multiplex Networks"
+      type: "article"
+      author: Saeed Ghariblou, Mostafa Salehi, Matteo Magnani, and Mahdi Jalili
+      journal: "Scientific Reports"
+      volume: 7
+      number:
+      year: 2017
+      doi:
+      fulltext:
+      git:
