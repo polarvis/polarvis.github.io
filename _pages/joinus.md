@@ -2,6 +2,7 @@
 layout: single
 title: Join Us
 permalink: /joinus/
+toc: true
 ---
 
 ## Open positions
