@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: infolab-toplevel
 title: Education
 permalink: /education/
 ---

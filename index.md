@@ -25,12 +25,12 @@ All inquiries regarding the lab's activities can be sent to
 
 You can find us on the 5th floor of the <a href="https://kartor.eniro.se/m/RjRfE">Ångström Laboratory,
 House 10</a>.
-<div width="25%">
+
+<figure style="width:20%" >
 <img src="/assets/images/location.png"
 alt="The location of the Ångström laboratory on a map" />
-</div>
-
-<br/>
+<figcaption>Link to map</figcaption>
+</figure>
 
 The following are some photos of the building where we are located:
 <figure>

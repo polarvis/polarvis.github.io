@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: infolab-toplevel
 title: Software
 permalink: /software/
 toc: true
@@ -7,13 +7,13 @@ toc: true
 
 ## Multilayer networks
 
-Here you find links to code and libraries developed at the Infolab to analyse multilayer networks.
+Here you find links to code and libraries developed at the Infolab to analyse multilayer networks. 
 
 ### R multinet
 
-<figure>
+<figure style="width:50%">
 <img src="/assets/images/software/r_multinet.png"
-         alt="The multinet library used inside RStudio" width="30%" />
+         alt="The multinet library used inside RStudio" />
     <figcaption>The multinet library used inside RStudio.</figcaption>
 </figure>
 

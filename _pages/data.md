@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: infolab-toplevel
 title: Data
 permalink: /data/
 ---
