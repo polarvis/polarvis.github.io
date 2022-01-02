@@ -32,33 +32,25 @@ If you are interested, please send an email to the person responsible for the pr
 
 ## Before joining
 
-This section collects some information about how we do research.
+This section collects some information on how we work, that can be useful if you are interested in joining the lab.
 
 ### Expected availability
 
-Given the creative nature of part of our work, Infolab members are generally free to work at the times and place that best fit them, compatibly with tasks requiring presence (e.g., teaching) and regulations that may be inforced by the Department or University.
+Given the creative nature of part of our work, Infolab members are generally free to work when and where it best fits them, compatibly with tasks requiring presence (e.g., teaching) and regulations that may be inforced by the Department or University.
 
-At the same time, everyone is expected to contribute to the lab, which implies being available to give feedback, sharing their current research with other members (see below), and participating in lab meetings. This should be felt as an opportunity, not as a burden - in which case it's important to have a discussion about it.
+At the same time, everyone is expected to contribute to the lab, which implies being available to give feedback, sharing their current research with other members (see below), and participating in lab meetings.
 
-Lab members should be free to take time offline. In particular, it is not necessary to be continuously online on our Slack space. Checking the Slack at least once a day is however expected, and if one is not going to be online for a few days for different reasons (e.g., holidays) it is advised to communicate it so that others do not expect to be able to reach you.
+Lab members are free to take time to work offline. In particular, it is not necessary to be continuously online on our Slack space. Checking the Slack at least once a day is however expected, and if one cannot be online for a few days for any reason (e.g., holidays) it is good practice to inform the other lab members.
 
 ### Research quality
 
-While "quality" is a subjective term, and we expect lab members to reflect about this concept and adopt their own definitions of quality, we also have some guidelines to ensure that some common ground is established. In particular, we want our research to be:
+While "quality" is a subjective term, and we expect lab members to reflect about this concept and adopt their own definitions of quality, we also have some guidelines to ensure that some common ground is established. In particular, we want our research to be based on appropriate methods, clearly and transparently communicated, developed with ethical and societal awareness, replicable (when possible), and usable by others.
 
-1. based on appropriate methods,
-1. clearly and transparently communicated,
-1. developed with ethical and societal awareness, 
-1. replicable, and
-1. usable by others.
+To achieve this, research at Infolab is organised into *research activities*. A research activity is anything leading to a published article, a grant proposal, a PhD dissertation, an undergraduate thesis, research software, etc. Each research activity is led by a member of the lab, who is the *contact author* and is responsible for the research to advance and for its quality. Under normal circumstances, the contact author should be available to answer questions about the activity and its outcomes for at least two years after the outcome has been made public, even in case of a change of affiliation.
 
-To achieve this, research at Infolab is organised into research activities. A research activity is anything leading to a research outcome, e.g., a published article, a grant proposal, a PhD dissertation, an undergraduate thesis or research software.
+Members of the lab should feel a responsibility of getting and receiving feedback from other members. At the beginning of a new research activity, the (contact) author(s) should pitch the idea to the other lab members, who should be available to provide constructive feedback. Before submitting a paper or research proposal the authors are invited to share it with the other lab members, who should be available to provide constructive feedback. Getting feedback even earlier is also encouraged, although not expected.
 
-Each research activity is led by a member of the lab, who is the contact author and is responsible for the research to advance and its quality. Under normal circumstances, the contact author should be available to answer questions about the activity and its outcomes for at least two years after the outcome has been made public, even in case of a change of affiliation.
-
-Members of the lab should feel a responsibility of getting and receiving feedback from other members. At the beginning of a new research activity, the authors should pitch the idea to the other lab members, who should be available to provide constructive feedback. Before submitting a paper or research proposal the authors are invited to share it with the other lab members, who should be available to provide constructive feedback. Getting feedback even earlier is also encouraged, although not expected.
-
-At submission time, for all products containing experiments the code to replicate the experiments should be made available in a repository in the Infolab's git workspace, in an easy-to-execute format (witth exceptions, for example double-blind reviewing processes).
+At submission time, for all products containing experiments the code to replicate the experiments should be made available in a repository in the Infolab's git workspace, in an easy-to-execute format (with exceptions, for example double-blind review processes).
 
 ### Authorship
 
@@ -70,10 +62,9 @@ Each research activity must have a clear list of authors. At the Infolab we defi
 
 When joining the lab: 
 
-1. Make sure you secure an accommodation well in advance, because it can be difficult to find places in Uppsala.
-1. A currenty faculty member will register you to our internal system.
+1. If you are not already in Uppsala, make sure you start looking for an accommodation well in advance, this can take time.
+1. A current faculty member will register you to our internal systems.
     * Slack (we do not normally use email for communication).
-    * The lab's Git space.
+    * The lab's Git space (please provide your git account).
     * Group storage space.
-1. Follow the Twitter and Facebook accounts, if you use these social media for work.
-register to our bitbucket.
+1. Follow the Twitter and Facebook accounts of the lab, if you use these social media for work.

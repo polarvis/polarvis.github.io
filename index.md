@@ -23,16 +23,8 @@ and the study of online disinformation.
 All inquiries regarding the lab's activities can be sent to 
 <a href="mailto:matteo.magnani@it.uu.se">matteo.magnani@it.uu.se</a>.
 
-You can find us on the 5th floor of the <a href="https://kartor.eniro.se/m/RjRfE">Ångström Laboratory,
-House 10</a>.
-
-<figure style="width:20%" >
-<img src="/assets/images/location.png"
-alt="The location of the Ångström laboratory on a map" />
-<figcaption>Link to map</figcaption>
-</figure>
-
-The following are some photos of the building where we are located:
+Our offices are located on the 5th floor of the <a href="https://kartor.eniro.se/m/RjRfE">Ångström Laboratory,
+House 10</a>, Lägerhyddsvägen 1, 752 37 Uppsala.
 <figure style="width:45%">
 <img src="/assets/images/angstrom.jpg"
      alt="The Ångström laboratory, exterior" />

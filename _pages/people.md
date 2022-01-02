@@ -44,5 +44,6 @@ header:
 
 {% for person in site.data.people.alumni %}
 **{{ person.name }}**, {{ person.role }} ({{ person.year }})<br/>
-*{{ person.thesis }}*.
+{% if person.url != "" %}<a href="{{ person.url }}">*{{ person.thesis }}*</a>.
+{% else %}*{{ person.thesis }}*.{% endif %}
 {% endfor %}
