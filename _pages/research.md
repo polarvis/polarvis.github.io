@@ -2,12 +2,21 @@
 layout: infolab-toplevel
 title: Research
 permalink: /research/
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: "0.4"
 toc: true
 ---
 
 ## Research areas
 
 ### Feature-rich networks
+
+<figure style="width:50%">
+<img src="/assets/images/ttn.png"
+         alt="A temporal text network" />
+    <figcaption>A communication network, with actors (A) exchanging messages (M), with timestamps.</figcaption>
+</figure>
 
 Networks have been a popular model to study social systems for more than one century, and their applicability has increased in the last decades thanks to the increase in access to social data, for example from online social networks. However, contemporary social data can very heterogeneous, consisting of different types of actors and social ties, multimedia content, and temporal information. In addition, relevant social connections are often not directly available in the data, which implies that we cannot be certain about which connections exist. Therefore, at the Infolab we study extended network models that can be used to represent the complexity of contemporary social data.
 
@@ -26,6 +35,12 @@ One model we have extensively studied since 2011[^ml-model] are multilayer netwo
 [^diffusion]: Mostafa Salehi, Rajesh Sharma, Moreno Marzolla, Matteo Magnani, Payam Siyari, and Danilo Montesi (2015). <a href="papers/15TNSE.pdf" target="_blank">Spreading Processes in Multilayer Networks</a>. IEEE Transactions on Network Science and Engineering 2 (2): 65–83.
 
 ### Online information networks
+
+<figure style="width:50%">
+<img src="/assets/images/pb.png"
+         alt="A world map showing the relative frequency of YouTube videos including a given visual theme" />
+    <figcaption>A world map showing the relative frequency of top-relevant YouTube videos including a given visual theme in different geographical regions, identified using deep neural network classifiers.</figcaption>
+</figure>
 
 Our main application area is the study on online communication. Two current areas of applied research are online disinformation and visual political communication.
 

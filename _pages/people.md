@@ -2,6 +2,9 @@
 layout: infolab-toplevel
 title: People
 permalink: /people/
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: "0.4"
 ---
 
 ## Members

@@ -2,6 +2,9 @@
 layout: infolab-toplevel
 title: Education
 permalink: /education/
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: "0.4"
 toc: true
 ---
 

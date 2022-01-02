@@ -2,6 +2,9 @@
 layout: infolab-toplevel
 title: Join Us
 permalink: /joinus/
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: "0.4"
 toc: true
 ---
 

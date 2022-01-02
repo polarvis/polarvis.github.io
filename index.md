@@ -33,19 +33,19 @@ alt="The location of the Ångström laboratory on a map" />
 </figure>
 
 The following are some photos of the building where we are located:
-<figure>
+<figure style="width:45%">
 <img src="/assets/images/angstrom.jpg"
-     alt="The Ångström laboratory, exterior" width="30%" />
+     alt="The Ångström laboratory, exterior" />
 <figcaption>The Ångström laboratory under construction, photo by Jonas@sodratornet.se, CC BY-SA 4.0</figcaption>
 </figure>
-<figure>
+<figure style="width:45%">
 <img src="/assets/images/angstrom_interior1.jpg"
-     alt="The Ångström laboratory, interior" width="30%" />
+     alt="The Ångström laboratory, interior" />
 <figcaption>The Ångström laboratory, interior, photo by Per Nordlund, construction manager.</figcaption>
 </figure>
-<figure>
+<figure style="width:45%">
 <img src="/assets/images/angstrom_interior2.jpg"
-         alt="The Ångström laboratory, interior" width="30%" />
+         alt="The Ångström laboratory, interior" />
     <figcaption>The Ångström laboratory, interior, photo by Per Nordlund, construction manager.</figcaption>
 </figure>
 
