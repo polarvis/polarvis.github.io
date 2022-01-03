@@ -20,7 +20,7 @@ The <a href="https://cran.r-project.org/web/packages/multinet/index.html"> `R mu
 
     install.packages("multinet")
     
-Here you can find <a href="">documentation and source code</a> (forthcoming), and register bugs or feature requests. 
+Here you can find <a href="https://github.com/uuinfolab/r_multinet">documentation and source code</a>, and register bugs or feature requests. 
 
 ## uunet.multinet (Python)
 
@@ -28,11 +28,11 @@ The  <a href="https://pypi.org/project/uunet/">`Python uunet.multinet`</a> libra
 
     pip install uunet
     
-Here you can find <a href="">documentation and source code</a> (forthcoming), and register bugs or feature requests. 
+Here you can find <a href="https://github.com/uuinfolab/py_multinet">documentation and source code</a>, and register bugs or feature requests. 
 
 ## uunet (C++)
 
-The <a href="">`C++ uunet`</a> library (forthcoming) contains most of the code behind the `R` and `Python` libraries for multilayer network analysis, in addition to other code for network and data analysis we develop at the Infolab. 
+The <a href="https://github.com/uuinfolab/uunet">`C++ uunet`</a> library contains most of the code behind the `R` and `Python` libraries for multilayer network analysis, in addition to other code for network and data analysis we develop at the Infolab. 
 
 ## Code for paper replicability
 
