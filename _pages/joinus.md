@@ -12,11 +12,11 @@ toc: true
 
 ### Postdoc
 
-We currently have no open postdoc positions
+We will soon open a Postdoc position in the area of social image analysis, we will post the announcement here and on our social media accounts. 
 
 ### PhD
 
-We currently have no open PhD positions
+We will soon open a PhD position in the area of multilayer network data management, we will post the announcement here and on our social media accounts. 
 
 ### Internship
 
