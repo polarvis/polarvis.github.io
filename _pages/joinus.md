@@ -16,7 +16,7 @@ We will soon open a Postdoc position in the area of social image analysis. We wi
 
 ### PhD
 
-We have an <b>open PhD position</b> on spreading phenomena, resilience and modularity in probabilistic graphs applied to disaster science, as part of Uppsala University's <a href="https://www.math.uu.se/research/cim/" target="_new">Centre for Interdisciplinary Mathematics</a>. <a href="https://mp.uu.se/.../info/vart-uu/lediga-jobb/-/jobb/477324">Apply here (Project 5).</a> For any questions, please contact <a href="mailto:christian.rohner@it.uu.se,matteo.magnani@it.uu.se?subject=CIM%20PhD%20Position">Christian and Matteo</a>.
+We have an <b>open PhD position</b> on spreading phenomena, resilience and modularity in probabilistic graphs applied to disaster science, as part of Uppsala University's <a href="https://www.math.uu.se/research/cim/" target="_new">Centre for Interdisciplinary Mathematics</a>. <a href="https://mp.uu.se/.../info/vart-uu/lediga-jobb/-/jobb/477324">Apply here (Project 5).</a> For any questions, please contact Christian and Matteo by <a href="mailto:christian.rohner@it.uu.se,matteo.magnani@it.uu.se?subject=CIM%20PhD%20Position">email</a>.
 
 We will soon open a PhD position on multilayer network databases. We will post the announcement here and on our social media accounts. 
 
