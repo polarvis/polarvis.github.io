@@ -34,17 +34,21 @@ If you are interested, please send an email to the person responsible for the pr
 
 ## Before joining
 
-This section collects some information on how we work, that can be useful if you are interested in joining the lab.
+This section collects some information about life in Sweden and about how we work, that can be useful if you are interested in joining the lab.
 
-### Expected availability
+### Working and living in Sweden
 
-Given the creative nature of part of our work, Infolab members are generally free to work when and where it best fits them, compatibly with tasks requiring presence (e.g., teaching) and regulations that may be inforced by the Department or University.
+Sweden is a fantastic place for living and working. Swedes are friendly and speak excellent English.  The quality of life is high, with a strong emphasis on outdoor activities.  The Swedish working climate emphasises an open atmosphere, with active discussions involving both junior and senior staff.  Spouses of employees are entitled to work permits. Healthcare is free after a small co-pay and the university subsidises athletic costs, such as a gym membership.  The parental benefits in Sweden are among the best in the world, including extensive parental leave (for both parents), paid time off to care for sick children, and affordable daycare.  For more information, be sure to read <a href="https://www.uu.se/en/about-uu/join-us/advantages" target="_new">Why choose Sweden?</a> and <a href="https://www.uu.se/en/about-uu/join-us/why-uppsala-university" target="_new">Why choose Uppsala University?</a>.
+
+### Expected availability from Infolab members
+
+Given the creative nature of part of our work, Infolab members are generally free to work when and where it best fits them, compatibly with tasks requiring presence (e.g., teaching) and regulations that may be enforced by the Department or University.
 
 At the same time, everyone is expected to contribute to the lab, which implies being available to give feedback, sharing their current research with other members (see below), and participating in lab meetings.
 
 Lab members are free to take time to work offline. In particular, it is not necessary to be continuously online on our Slack space. Checking the Slack at least once a day is however expected, and if one cannot be online for a few days for any reason (e.g., holidays) it is good practice to inform the other lab members.
 
-### Research quality
+### Research quality at the Infolab
 
 While "quality" is a subjective term, and we expect lab members to reflect about this concept and adopt their own definitions of quality, we also have some guidelines to ensure that some common ground is established. In particular, we want our research to be based on appropriate methods, clearly and transparently communicated, developed with ethical and societal awareness, replicable (when possible), and usable by others.
 
