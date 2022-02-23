@@ -22,8 +22,8 @@ div.profiles {
   width: 100%;
 }
 
-div.profile {
-  width: 23%;
+figure.profile {
+  width: 200px;
   float: left;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -31,11 +31,10 @@ div.profile {
   margin-right: 10px;
 }
 
-div.profiletext {
+figcaption.profile {
   width: 100%;
+  font-size: 16px;
   text-align: center;
-  font-size: 12px;
-  font-size: 1.5vw;
   white-space: nowrap;
   padding: 10px 20px;
 }

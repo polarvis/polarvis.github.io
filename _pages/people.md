@@ -11,12 +11,12 @@ header:
 
 <div class="profiles"> 
 {% for person in site.data.people.members %}
-<div class="profile">
+<figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
-  <div class="profiletext">
+  <figcaption class="profile">
   <p>{{ person.name }} <br/> {{ person.title }}</p>
-  </div>
-</div>
+  </figcaption>
+</figure>
 {% endfor %}
 <div class="stop"/>
 </div>
