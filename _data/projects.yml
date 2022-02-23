@@ -30,6 +30,12 @@
 - scope: "National"
   projects:
 
+    - title: "eSSENCE"
+      id: ""
+      funder: "Swedish Government"
+      years: "2022-"
+      description: "A Swedish strategic collaborative research programme in e-Science"
+        
     - title: "Visual Politics: A Deep Learning Approach to the Spread and Stick of Political Ideas"
       id: "2021-02769"
       funder: "Swedish Research Council (VR)"
@@ -42,7 +48,6 @@
       years: "2012-2016"
       description: "This grant allowed the Infolab coordinator to develop the research area that led to the establishment of the lab."
 
-
     - title: "Working Capital research grant"
       id: ""
       funder: "Telecom Italia"
@@ -52,7 +57,7 @@
 
 - scope: "Local"
   projects:
-
+    
     - title: "Digital politics (Research Network)"
       id: ""
       funder: "Centre for Integrated Research on Culture and Society (CIRCUS)"
