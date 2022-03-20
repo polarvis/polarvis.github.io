@@ -21,7 +21,7 @@
 - name: "Network Science"
   level: "PhD"
   frequency: "Every second year"
-  url: "https://github.com/uuinfolab/course.networkscience"
+  url: "https://uuinfolab.github.io/courses/networkscience_phd2022"
   description: "An introduction to the field of Network Science targeted to PhD students in all disciplinary domains. After introducing the basic terminology and concepts, (guest) lectures on specific topics and a review of selected literature allow the students to go more in depth in their own domain."
   
 - name: "Readings in Network Science"
