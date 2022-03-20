@@ -8,7 +8,7 @@ header:
 toc: true
 ---
 
-# Introduction to Network Science
+# Introduction to Network Science (PhD level)
 
 **Period:** Spring 2022
 
