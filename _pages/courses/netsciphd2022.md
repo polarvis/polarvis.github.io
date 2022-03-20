@@ -1,6 +1,6 @@
 ---
 layout: infolab-toplevel
-title: Research
+title: Education
 permalink: /courses/networkscience_phd2022
 header:
   overlay_image: /assets/images/banner_small.jpg
