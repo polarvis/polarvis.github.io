@@ -24,17 +24,17 @@ The schedule for the course is the following:
 
 ### PART I: Networks: basic concepts (lectures with practical activities)
 
- * Mon, May 23, 09:00-15:30 Room 101125 (Ångström laboratory) Basics: Models and measures
- * Tue, May 24, 09:00-12:00 Room 101125 (Ångström laboratory) Graph mining
- * Tue, May 24, Tue, 13:15-16:00 Room 101125 (Ångström laboratory) Propagation
+ * Mon, May 23, 09:00-15:30 Room 101125 (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
+ * Tue, May 24, 09:00-12:00 Room 101125 (Ångström laboratory) Graph mining (Matteo Magnani)
+ * Tue, May 24, Tue, 13:15-16:00 Room 101125 (Ångström laboratory) Propagation (Christian Rohner)
 
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
 
- * Mon, May 30, 09:00-12:00 Room 101260 (Ångström laboratory) Multiplex networks
- * Mon, May 30, 13:15-16:00 Room 101260 (Ångström laboratory) Topic TBD (guest lectures)
- * Tue, May 31, 09:00-12:00 Room 101260 (Ångström laboratory) Topic TBD (guest lectures)
+ * Mon, May 30, 09:00-12:00 Room 101260 (Ångström laboratory) Blockmodelling (Davide Vega)
+ * Mon, May 30, 13:15-16:00 Room 101260 (Ångström laboratory) Topic TBD (Tiago de Paula Peixoto, CEU Vienna, Austria)
+ * Tue, May 31, 09:00-12:00 Room 101260 (Ångström laboratory) Multiplex networks (Matteo Magnani)
  * Tue, May 31, 13:15-16:00 Room 101260 (Ångström laboratory) Topic TBD (guest lectures)
- * Fri, June 10, 09:00- Room 101258 (Ångström laboratory) Network visualisation (Mohammad Gronien, LIST)
+ * Fri, June 10, 09:00- Room 101258 (Ångström laboratory) Network visualisation (Mohammad Gronien, LIST, Luxembourg)
 
 ### PART III: Literature study
 
