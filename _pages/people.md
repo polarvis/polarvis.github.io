@@ -32,7 +32,7 @@ header:
 
 ## Past members[^2]
 
-[^2]: Visiting researchers who spent a significant ammount of time (normally a few months) at the Infolab and previous members (PhD students, postdocs, etc.).
+[^2]: Visiting researchers who spent a significant amount of time (normally a few months) at the Infolab and previous members (PhD students, postdocs, etc.).
 
 {% for person in site.data.people.past_members %}
 **{{ person.name }}**, {{ person.title }} ({{ person.year }}).
