@@ -12,13 +12,15 @@ toc: true
 
 ### Postdoc
 
-We will soon open a Postdoc position in the area of social image analysis. We will post the announcement here and on our social media accounts. 
+We will soon open a Postdoc position in the area of social image analysis. We will post the announcement here and on our social media accounts.
 
 ### PhD
 
 We have an <b>open PhD position</b> on spreading phenomena, resilience and modularity in probabilistic graphs applied to disaster science, as part of Uppsala University's <a href="https://www.math.uu.se/research/cim/" target="_new">Centre for Interdisciplinary Mathematics</a>. <a href="https://math.uu.se/the-department/vacant-positions/?positionId=477324">Apply here (Project 5).</a> For any questions, please contact Christian and Matteo by <a href="mailto:christian.rohner@it.uu.se,matteo.magnani@it.uu.se?subject=CIM%20PhD%20Position">email</a>.
 
-We will also soon open a PhD position on multilayer network databases. We will post the announcement here and on our social media accounts. 
+We have a second <b>open PhD position</b> directed towards integrating textual and temporal data with Network Science for the analysis of online communication. To apply, you should <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=501594" target="_new">Submit your application through Uppsala University's recruitment system</a>.
+
+We will also soon open a PhD position on multilayer network databases. We will post the announcement here and on our social media accounts.
 
 ### Internship
 
@@ -66,7 +68,7 @@ Each research activity must have a clear list of authors. At the Infolab we defi
 
 ### Start-up checklist
 
-When joining the lab: 
+When joining the lab:
 
 1. If you are not already in Uppsala, make sure you start looking for an accommodation well in advance, this can take time.
 1. A current faculty member will register you to our internal systems.
