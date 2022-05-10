@@ -12,15 +12,18 @@ toc: true
 
 ### Postdoc
 
-We will soon open a Postdoc position in the area of social image analysis. We will post the announcement here and on our social media accounts.
+We have an <b>open Postdoc position</b> on social image analysis. <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=508164">Apply here.</a> For any questions, please contact Matteo and Alexandra by <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=Postdoc%20Position%20image%20analysis">email</a>.
 
 ### PhD
 
-We have an <b>open PhD position</b> on spreading phenomena, resilience and modularity in probabilistic graphs applied to disaster science, as part of Uppsala University's <a href="https://www.math.uu.se/research/cim/" target="_new">Centre for Interdisciplinary Mathematics</a>. <a href="https://math.uu.se/the-department/vacant-positions/?positionId=477324">Apply here (Project 5).</a> For any questions, please contact Christian and Matteo by <a href="mailto:christian.rohner@it.uu.se,matteo.magnani@it.uu.se?subject=CIM%20PhD%20Position">email</a>.
+We have an <b>open PhD position</b> on multilayer network databases. <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=506599">Apply here.</a> For any questions, please contact Matteo by <a href="mailto:matteo.magnani@it.uu.se?subject=PhD%20Position%20multilayer%20networks">email</a>.
 
 We have a second <b>open PhD position</b> directed towards integrating textual and temporal data with Network Science for the analysis of online communication. To apply, you should submit your application through Uppsala University's  <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=501594" target="_new">recruitment system</a>. For any questions, please contact Davide Vega by <a href="mailto:davide.vega@it.uu.se?subject=eSSENCE%20PhD%20Position">email</a>.
 
-We will also soon open a PhD position on multilayer network databases. We will post the announcement here and on our social media accounts.
+### Research assistant
+
+These positions are only available for current students at Uppsala University. <a href="https://uu.se/en/about-uu/join-us/details/?positionId=503206">Apply here.</a>
+
 
 ### Internship
 
