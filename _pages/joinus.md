@@ -12,18 +12,26 @@ toc: true
 
 ### Postdoc
 
-We have an <b>open Postdoc position</b> on social image analysis. <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=508164">Apply here.</a> For any questions, please contact Matteo and Alexandra by <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=Postdoc%20Position%20image%20analysis">email</a>.
+Postdoc position on <b>social image analysis</b>.
+<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=508164">Apply here.</a>
+For questions, please contact <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=Postdoc%20Position%20image%20analysis">Matteo and Alexandra</a>.
 
 ### PhD
 
-We have an <b>open PhD position</b> on multilayer network databases. <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=506599">Apply here.</a> For any questions, please contact Matteo by <a href="mailto:matteo.magnani@it.uu.se?subject=PhD%20Position%20multilayer%20networks">email</a>.
+PhD position on <b>multilayer network databases</b>.
+<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=506599">Apply here.</a>
+For questions, please contact <a href="mailto:matteo.magnani@it.uu.se?subject=PhD%20Position%20multilayer%20networks">Matteo</a>.
 
-We have a second <b>open PhD position</b> directed towards integrating textual and temporal data with Network Science for the analysis of online communication. To apply, you should submit your application through Uppsala University's  <a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=501594" target="_new">recruitment system</a>. For any questions, please contact Davide Vega by <a href="mailto:davide.vega@it.uu.se?subject=eSSENCE%20PhD%20Position">email</a>.
+PhD position on <b>integrating textual and temporal data with Network Science for the analysis of online communication</b>.
+<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=501594">Apply here.</a>
+For questions, please contact <a href="mailto:davide.vega@it.uu.se?subject=eSSENCE%20PhD%20Position">Davide</a>.
 
 ### Research assistant
 
-These positions are only available for current students at Uppsala University. <a href="https://uu.se/en/about-uu/join-us/details/?positionId=503206">Apply here.</a>
-
+Part-time research assistant positions  (2 to 4) with <b>software development responsibilities</b>.
+Reserved for students at Uppsala University.
+<a href="https://uu.se/en/about-uu/join-us/details/?positionId=503206">Apply here.</a>
+For questions, please contact <a href="mailto:matteo.magnani@it.uu.se?subject=Research%20assistant%20position">Matteo</a>. 
 
 ### Internship
 
