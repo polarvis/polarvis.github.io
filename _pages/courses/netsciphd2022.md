@@ -30,8 +30,8 @@ The schedule for the course is the following:
 
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
 
- * Mon, May 30, 09:00-12:00 Room 101260 (Ångström laboratory) Blockmodelling (Davide Vega)
- * Mon, May 30, 13:15-16:00 Room 101260 (Ångström laboratory) Topic TBD (Tiago de Paula Peixoto, CEU Vienna, Austria)
+ * Mon, May 30, 09:00-12:00 Room 101260 (Ångström laboratory) Roles and positions (Davide Vega)
+ * Mon, May 30, 13:15- Room 101260 (Ångström laboratory) Topic TBD (Tiago de Paula Peixoto, CEU Vienna, Austria)
  * Tue, May 31, 09:00-12:00 Room 101260 (Ångström laboratory) Multiplex networks (Matteo Magnani)
  * Tue, May 31, 13:15-16:00 Room 101260 (Ångström laboratory) Brain Networks - day and time to be confirmed (Onerva Kohronen, Aalto University, Finland / CTB, Universidad Politécnica de Madrid)
  * Fri, June 10, 09:00- Room 101258 (Ångström laboratory) Network visualisation (Mohammad Gronien, LIST, Luxembourg)
