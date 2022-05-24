@@ -24,16 +24,16 @@ The schedule for the course is the following:
 
 ### PART I: Networks: basic concepts (lectures with practical activities)
 
- * Mon, May 23, 09:00-10:00 Room 101125 (Ångström laboratory) Introduction to the course (Matteo Magnani)
- * Mon, May 23, 10:00-15:30 Room 101125 (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
- * Tue, May 24, 09:00-11:00 Room 101125 (Ångström laboratory) Introduction to graph mining (Matteo Magnani)
- * Tue, May 24, 11:00-12:00 Room 101125 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
+ * Mon, May 23, 09:00-10:30 Room 101125 (Ångström laboratory) Introduction to the course (Matteo Magnani)
+ * Mon, May 23, 10:30-15:30 Room 101125 (Ångström laboratory) Basics: Models and measures (Matteo Magnani)
+ * Tue, May 24, 09:00-10:30 Room 101125 (Ångström laboratory) Introduction to graph mining (Matteo Magnani)
+ * Tue, May 24, 10:30-12:00 Room 101125 (Ångström laboratory) Modularity-based graph clustering (Fiona Skerman, Dept. of mathematics)
  * Tue, May 24, Tue, 13:15-16:00 Room 101125 (Ångström laboratory) Propagation (Christian Rohner)
 
 ### PART II: Selected topics (lectures with practical activities and guest lectures)
 
  * Mon, May 30, 09:00-12:00 Room 101260 (Ångström laboratory) Roles and positions (Davide Vega)
- * Mon, May 30, 13:15-XX:XX Room 101260 (Ångström laboratory) Topic TBD (Tiago de Paula Peixoto, CEU Vienna, Austria)
+ * Mon, May 30, 13:15-15:15 Room 101260 (Ångström laboratory) Inferential community detection and network reconstruction (Tiago de Paula Peixoto, CEU Vienna, Austria)
  * Tue, May 31, 09:00-12:00 Room 101260 (Ångström laboratory) Multiplex networks (Matteo Magnani)
  * Tue, May 31, 13:15-15:00 Room 101260 (Ångström laboratory) Brain Networks (Onerva Kohronen, Aalto University, Finland / CTB, Universidad Politécnica de Madrid)
  * Fri, June 10, 09:00- Room 101258 (Ångström laboratory) Network visualisation (Mohammad Gronien, LIST, Luxembourg)
