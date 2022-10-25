@@ -13,7 +13,7 @@
   title: "Assistant Professor"
 - name: "Victoria Yantseva"
   pic: "/assets/images/people/victoria2.png"
-  url: "#"
+  url: "https://katalog.uu.se/profile/?id=N22-1006"
   title: "PostDoc"
 - name: "Nora Al-Naami"
   pic: "/assets/images/people/nora2.png"
@@ -21,7 +21,10 @@
   title: "PhD Student (LIST)"
 - name: "Georgios Panayiotou"
   pic: "/assets/images/people/george.png"
-  url: "#"
+  url: "https://www.it.uu.se/katalog/geopa377"
   title: "PhD Student"
-
+- name: "Xin Shen"
+  pic: "/assets/images/people/xin.jpg"
+  url: "https://www.it.uu.se/katalog/xinsh758"
+  title: "PhD Student"
 
