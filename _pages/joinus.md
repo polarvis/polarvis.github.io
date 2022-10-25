@@ -12,30 +12,18 @@ toc: true
 
 ### Postdoc
 
-Postdoc position on <b>social image analysis</b>.<br/>
-Deadline: May 31, 2022<br/>
-<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=508164">Apply here.</a><br/>
-For questions, please contact <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=Postdoc%20Position%20image%20analysis">Matteo and Alexandra</a>.
+No currently open position.
 
 ### PhD
 
-PhD position on <b>multilayer network databases</b>.<br/>
-Deadline: May 31, 2022<br/>
-<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=506599">Apply here.</a><br/>
-For questions, please contact <a href="mailto:matteo.magnani@it.uu.se?subject=PhD%20Position%20multilayer%20networks">Matteo</a>.
-
-PhD position on <b>integrating textual and temporal data with Network Science for the analysis of online communication</b>.<br/>
-Deadline: May 31, 2022<br/>
-<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=501594">Apply here.</a><br/>
-For questions, please contact <a href="mailto:davide.vega@it.uu.se?subject=eSSENCE%20PhD%20Position">Davide</a>.
+PhD position in <b>social data science</b>.<br/>
+Deadline: Nov 20, 2022 (call under publication)<br/>
+<!--a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=508164">Apply here.</a><br/-->
+For questions, please contact <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=PhD%20Position%20social%20data%20science">Matteo and Alexandra</a>.
 
 ### Research assistant
 
-Part-time research assistant positions  (2 to 4) with <b>software development responsibilities</b>.<br/>
-Reserved for students at Uppsala University.<br/>
-Deadline: May 16, 2022<br/>
-<a href="https://uu.se/en/about-uu/join-us/details/?positionId=503206">Apply here.</a><br/>
-For questions, please contact <a href="mailto:matteo.magnani@it.uu.se?subject=Research%20assistant%20position">Matteo</a>. 
+No currently open positions.
 
 ### Internship
 
