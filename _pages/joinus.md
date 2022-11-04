@@ -17,8 +17,8 @@ No currently open position.
 ### PhD
 
 PhD position in <b>social data science</b>.<br/>
-Deadline: Nov 20, 2022 (call under publication)<br/>
-<!--a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=508164">Apply here.</a><br/-->
+Deadline: Nov 25, 2022<br/>
+<a href="https://www.uu.se/en/about-uu/join-us/details/?positionId=561864">Apply here.</a><br/>
 For questions, please contact <a href="mailto:matteo.magnani@it.uu;alexandra.segerberg@statsvet.uu.se?subject=PhD%20Position%20social%20data%20science">Matteo and Alexandra</a>.
 
 ### Research assistant
