@@ -1,6 +1,6 @@
-# Web site of the Uppsala University Information Laboratory
+# Web site of the PolarVis project
 
-This repository is used to generate the [Web site of the UU-InfoLab](https://uuinfolab.github.io). It is based on [Jekyll](http://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll
+This repository is used to generate the [Web site of the PolarVis project](https://polarvis.github.io). It is based on [Jekyll](http://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Jekyll
 theme.
 
 More details about the theme are available from the
