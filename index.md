@@ -11,13 +11,7 @@ excerpt: "VISUAL PERSUASION IN A TRANSFORMING EUROPE<br/>the affective and polar
 
 # About the project
 
-Blah blah blah
-
-To add a new page, add the file with the page content to `_pages/` (some examples already there) and update `_data/navigation.yml` to make it appear in the top menu.
-
-General page content such as the logo, the links to social media at the bottom, etc. can be specified in the file `config.yml`.
-
-Images are kept in directory `_assets/`.
+Basic information on how to update the content is in the README file.
 
 # Contact
 
