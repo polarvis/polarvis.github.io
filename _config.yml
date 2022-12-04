@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "UU-Infolab"
+title                    : "PolarVis"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Matteo Magnani"
-description              : "Website of the Uppsala University Information Laboratory."
+name                     : "PolarVis project"
+description              : "Website of the PolarVis project."
 url                      : "https://uuinfolab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "uuinfolab/uuinfolab.github.io"
+repository               : "polarvis/polarvis.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/polarvis_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,9 +79,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : uuinfolab
+  username               : polarvis
 facebook:
-  username               : uuinfolab
+  username               : polarvis
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -110,19 +110,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:matteo.magnani@it.uu.se"
+      url: "mailto:it-polarvis-info@lists.uu.se"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://katalog.uu.se/profile/?id=N13-1077"
+      #url: "xxx"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/matmagnani"
+      url: "https://twitter.com/polarvis"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/matteo.magnani"
+      # url: "https://facebook.com/polarvis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/magnanim"
+      url: "https://github.com/polarvis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,13 +132,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/uuinfolab"
+      url: "https://twitter.com/polarvis"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/uuinfolab"
+      url: "https://facebook.com/polarvis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/uuinfolab"
+      url: "https://github.com/polarvis"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
