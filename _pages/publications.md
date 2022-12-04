@@ -3,12 +3,12 @@ layout: infolab-toplevel
 title: Publications
 permalink: /publications/
 header:
-  overlay_image: /assets/images/banner_small.jpg
+  overlay_image: /assets/images/water.jpg
   overlay_filter: "0.4"
 toc: true
 ---
 
-Here we only list publications related to the activities of the lab. For other publications of the lab members you can consult their personal pages.
+Example of a list generated from the file `_data/publications.yml`.
 
 {% for publist in site.data.publications %}
 ## {{ publist.year }}
