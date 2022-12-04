@@ -5,7 +5,7 @@ theme.
 
 More details about the theme are available from the
 [theme repository](https://mmistakes.github.io/minimal-mistakes/).
-This README file contains a short manual for the lab members who want to modify the site, or other people
+This README file contains a short manual for project members who want to modify the site, or other people
 looking at this repository as an example.
 
 ## Updating the site
@@ -13,11 +13,13 @@ looking at this repository as an example.
 Every change made to the repository is automatically reflected in the Web site when the change is pushed to 
 the main branch. 
 
-Before pushing changes to GitHub, it is recommended to check the result locally. This can be done installing
+Before pushing changes to GitHub, you can check the result locally. This can be done installing
 Jekyll and Bundler, and running the following command, that will create a local server where the new site
 can be checked:
 
     bundle exec jekyll serve
+    
+This is however not necessary: one can also commit and push changes and wait for GitHub to update the sites online (it takes one or a few minutes).
 
 ## Adding a page
 
@@ -30,7 +32,7 @@ The new page can be added to the top menu by modifying the file `_data/navigatio
 To modify the content of a page it may be necessary to change multiple files:
 
 - The page itself.
-- The style file `_sass/uuinfolab.scss`, containing the css styles added to the ones provided by mmistakes.
+- The style file `_sass/uuinfolab.scss`, containing the css styles added to the ones provided by mmistakes, if one wants for example to create new classes for <div>, <p>, etc.
 - The data files in `_data/` from which part of the page content may be automatically generated, e.g., lists of people, publications, projects, ...
-
-Images and other resource files are stored in `assets/`. 
+- General page content such as the logo, the links to social media at the bottom, etc. can be specified in the file `config.yml`.
+- Images and other resource files are stored in `assets/`. 
