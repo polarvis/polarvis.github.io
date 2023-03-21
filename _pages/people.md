@@ -22,5 +22,3 @@ header:
 <div class="stop"/>
 </div>
 
-
-Hallo
