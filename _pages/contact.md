@@ -7,7 +7,14 @@ header:
   overlay_filter: "0.7"
 ---
 
+## Collaborating Universities
+
+Uppsala University, Sweden <br />
+Hungarian Academy of Science, Hungary <br />
+IT University of Copenhagen, Denmark <br />
+University of Copenhagen, Denmark <br />
+University of Vienna, Austria <br />
+
 ## E-Mail 
 
-You can reach the project team [here](it-polarvis-info@lists.uu.se).
-
+You can reach out to the project team [here](it-polarvis-info@lists.uu.se).
