@@ -21,9 +21,5 @@ Images feed into a powerful form of political communication that forges affectiv
 
 PolarVis is funded within the framework of [CHANSE Collaboration of Humanities and Social Sciences in Europe](https://chanse.org/), with co-funding from the European Union’s Horizon 2020 research and innovation programme.
 
-# Contact
-
-If you have questions or want to come in contact with us you can reach us via our <a href="mailto:it-polarvis-info@lists.uu.se">email</a>.
-
 
 
