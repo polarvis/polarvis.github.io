@@ -8,7 +8,6 @@ header:
 toc: true
 ---
 
-Example of a list generated from the file `_data/publications.yml`.
 
 {% for publist in site.data.publications %}
 ## {{ publist.year }}
