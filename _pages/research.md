@@ -8,23 +8,34 @@ header:
 toc: true
 ---
 
-An *example* of a figure:
+# Visual Persuasion in a Transforming Europe 
 
-<figure style="width:40%">
-<img src="/assets/images/research.png"
-         alt="Research process at the Infolab" />
-</figure>
+PolarVis aims to understand how, why and with what consequences visual content becomes a mechanism of integration and polarisation in digitally saturated societies. It draws on in-depth qualitative approaches and large-scale computational analysis, providing unique interdisciplinary traction on the challenges of theorising and studying networked visual persuasion and its political role. The project studies movements and countermovements around the intergenerational issue of climate change, and focuses on four key junctures in (trans)national processes of persuasion and polarisation.
 
-## Section
 
-### Subsection
+# Research Areas 
 
-<figure style="width:40%">
-<img src="/assets/images/ttn.png"
-         alt="A temporal text network" />
-    <figcaption>A communication network, with actors (A) exchanging messages (M), with timestamps (Vega and Magnani, 2020).</figcaption>
-</figure>
+### PRODUCTION
 
-Some text with footnotes[^note1], [links](http://www.cambridge.org/ge/academic/subjects/computer-science/computing-and-society/multilayer-social-networks?format=PB), other **important stuff**, etc.
+How do (counter)movements use visual communication on digital platforms as part of their communication repertoire to mobilise engage, and generate narratives about themselves and others?
 
-[^note1]: Note.
+
+### PICTURES
+
+What are the characteristics of the persuasive, contentious, and polarising visual content shared by (counter)movements? How is it framed? What visual narratives emerge?
+
+
+### PUBLICS
+
+What kind of public (re)action is observable around the visual content that movements and countermovements share online? How is this connected with the emergence of affective publics and antagonising counterpublics?
+
+
+### PROPAGATION
+
+How does this visual content spread online, and allow like-minded or opposed groups to emerge? What is the trajectory of narratives and repertoires across groups, platforms and time? 
+
+
+
+
+
+
