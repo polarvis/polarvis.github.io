@@ -7,7 +7,6 @@ header:
   overlay_filter: "0.7"
 ---
 
-Example of a list generated from the file `_data/people/members.yml`.
 
 ## Project members
 
@@ -16,7 +15,7 @@ Example of a list generated from the file `_data/people/members.yml`.
 <figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
   <figcaption class="profile">
-  <p>{{ person.name }} <br/> {{ person.title }}</p>
+  <p>{{ person.name }} <br/> {{ person.title }} <br/> {{ person.institution }} </p>
   </figcaption>
 </figure>
 {% endfor %}
