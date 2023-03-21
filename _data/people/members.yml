@@ -1,6 +1,9 @@
 # People
-main:
 - name: "Matteo Magnani"
-  pic: "/assets/images/people/matteo2.png"
-  url: "https://katalog.uu.se/profile/?id=N13-1077"
-  title: "Professor"
+   pic: "/assets/images/people/matteo2.png"
+   url: "https://katalog.uu.se/profile/?id=N13-1077"
+   title: "Professor"
+- name: "Matteo Magnani"
+   pic: "/assets/images/people/matteo2.png"
+   url: "https://katalog.uu.se/profile/?id=N13-1077"
+   title: "Professor"
