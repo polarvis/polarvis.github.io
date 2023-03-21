@@ -7,15 +7,14 @@ header:
   overlay_filter: "0.7"
 ---
 
-
 ## Project members
 
-<div class="profiles"> 
+ <div class="profiles"> 
 {% for person in site.data.people.members %}
 <figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
   <figcaption class="profile">
-  <p>{{ person.name }} <br/> {{ person.title }} </p>
+  <p>{{ person.name }} <br/> {{ person.title }}</p>
   </figcaption>
 </figure>
 {% endfor %}
