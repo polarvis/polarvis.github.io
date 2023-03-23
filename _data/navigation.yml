@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: /home/  
-  - title: "Team"
-    url: /team/
+  - title: "People"
+    url: /people/
   - title: "Research"
     url: /research/
   - title: "Contact"
