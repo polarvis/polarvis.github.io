@@ -132,10 +132,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/polarvis"
+      url: 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/polarvis"
+      url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/polarvis"
