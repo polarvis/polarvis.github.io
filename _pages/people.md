@@ -1,7 +1,7 @@
 ---
 layout: infolab-toplevel
-title: Team
-permalink: /team/
+title: People
+permalink: /people/
 header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
