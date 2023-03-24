@@ -14,7 +14,7 @@ header:
 <figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
   <figcaption class="profile">
-  <p>{{ person.name }} <br/> {{ person.title }} <br/> {{ person.institution }} <br/> {{ person.position }}</p>
+  <p>{{ person.name }} <br/> {{ person.title }} <br/> {{ person.institution }} <br/> {{ person.institution2 }} <br/> {{ person.position }}</p>
   </figcaption>
 </figure>
 {% endfor %}
