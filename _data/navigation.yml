@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: "https://polarvis.github.io"
   - title: "Team"
     url: /team/
   - title: "Research"
