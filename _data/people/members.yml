@@ -12,7 +12,7 @@
   title: "Professor"
   institution: "University of Vienna"
   institution2: "Principal Investigator"
-  position: " "
+  position: "&nbsp"
 - name: "Daniel Mikecz"
   pic: "/assets/images/people/user.png"
   url: "https://politikatudomany.tk.hu/en/researcher/mikecz-daniel"
