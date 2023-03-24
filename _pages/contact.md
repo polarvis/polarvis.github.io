@@ -9,11 +9,14 @@ header:
 
 ## Collaborating Universities
 
+
+<img align="right" width="550" src="/assets/images/logos.png" />
 Uppsala University, Sweden <br />
 Hungarian Academy of Sciences, Hungary <br />
 IT University of Copenhagen, Denmark <br />
 University of Copenhagen, Denmark <br />
 University of Vienna, Austria <br />
+
 
 ## E-Mail 
 
