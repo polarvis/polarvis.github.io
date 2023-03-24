@@ -10,7 +10,7 @@ header:
 ## Collaborating Universities
 
 Uppsala University, Sweden <br />
-Hungarian Academy of Science, Hungary <br />
+Hungarian Academy of Sciences, Hungary <br />
 IT University of Copenhagen, Denmark <br />
 University of Copenhagen, Denmark <br />
 University of Vienna, Austria <br />
