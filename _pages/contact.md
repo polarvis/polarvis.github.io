@@ -20,4 +20,4 @@ University of Vienna, Austria <br />
 
 ## E-Mail 
 
-You can reach out to the project team [here](it-polarvis-info@lists.uu.se).
+Contact the project team by [mail](it-polarvis-info@lists.uu.se).
