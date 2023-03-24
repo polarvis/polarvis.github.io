@@ -35,7 +35,8 @@ What kind of public (re)action is observable around the visual content that move
 
 #### PROPAGATION
 
-How does this visual content spread online, and allow like-minded or opposed groups to emerge? What is the trajectory of narratives and repertoires across groups, platforms and time? 
+How does this visual content spread online, and allow like-minded or opposed groups to emerge? <br />
+What is the trajectory of narratives and repertoires across groups, platforms and time? 
 
 
 
