@@ -17,7 +17,7 @@ Images feed into a powerful form of political communication that forges affectiv
 
    * The  project studies networked visual persuasion in and around climate movements in Europe. The design focuses key junctures in the social and algorithmic negotiation around images to understand their role as content, their affective resonance, and the processes of connection and conflict that occur around them.
 
-   * The project brings together a cross-disciplinary [team](https://polarvis.github.io/people/) of researchers in the social and computer sciences based at institutions across Europe. The team includes the Hungarian Academy of Sciences, the IT University of Copenhagen, the University of Copenhagen, the University of Vienna, and Uppsala University.
+   * The project brings together a cross-disciplinary [team](https://polarvis.github.io/team/) of researchers in the social and computer sciences based at institutions across Europe. The team includes the Hungarian Academy of Sciences, the IT University of Copenhagen, the University of Copenhagen, the University of Vienna, and Uppsala University.
 
 <img align="right" width="400" src="/assets/images/chanse.png" />
 Project PolarVis is supported under [CHANSE ERA-NET Co-fund programme](https://chanse.org/), which has received funding from the European Union’s Horizon 2020 Research and Innovation Programme, under Grant Agreement no 101004509.
