@@ -9,8 +9,7 @@ header:
 
 ## PolarVis Podcast 
 
-The PolarVis podcast series considers how various actors use visual narratives to engage citizens with the big issues of our time, and the (de)polarizing societal processes this can bring into play.
-This is a podcast is hosted by the PolarVis Research Project and available on Spotify. 
+The PolarVis podcast series considers how various actors use visual narratives to engage citizens with the big issues of our time, and the (de)polarizing societal processes this can bring into play. The podcast is hosted by the PolarVis Research Project and available on Spotify. 
 
 ### Episode 1 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Ro86IdaHfaFylzCJQFKqQ?utm_source=generator" width="50%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
