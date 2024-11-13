@@ -8,8 +8,6 @@ header:
 toc: true
 ---
 
-## Publications
-
 {% for publist in site.data.publications %}
 ## {{ publist.year }}
 
