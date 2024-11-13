@@ -8,9 +8,10 @@ header:
 toc: true
 ---
 
-<h1>Publications</h1>
+## Publications
 
 {% for publist in site.data.publications %}
+
 {{ publist.year }}
 
 {% for pub in publist.publications %} {{ pub.title }}
