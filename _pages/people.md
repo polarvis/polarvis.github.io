@@ -25,6 +25,7 @@ header:
       <a href="{{ person.url }}" target="_blank">{{ person.name }}</a><br/>
       {{ person.title }} <br/> 
       {{ person.institution }} <br/> 
+      {{ person.institution2 }} <br/> 
       {{ person.position }}
     </p>
   </figcaption>
