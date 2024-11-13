@@ -1,14 +1,15 @@
 # Publications
 
-- year: 2021
+- year: 2024
   publications:
   
-    - title: "On the conditions for integrating deep learning into the study of visual politics"
-      type: "in-proceedings"
-      author: Matteo Magnani and Alexandra Segerberg
-      conference: "13th ACM Web Science Conference (WebSci)"
-      year: 2021
-      doi:
+    - title: "Images of Nature in Online Climate Activism in Germany and Argentina: Science, Affect and Non-Human ‘Everybodies’"
+      type: "published"
+      author: Nicole Doerr and María Florencia Langa
+      conference: 
+      journal: Journal für Entwicklungspolitik
+      year: 2024
+      doi: 10.20446/JEP-2414-3197-40-1-33
       fulltext:
       git:
 
