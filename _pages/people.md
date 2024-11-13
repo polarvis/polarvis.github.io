@@ -9,11 +9,7 @@ header:
 
 ## Project members
 
-<style>
-  .profile p {
-    font-size: 0.8em; /* Adjust this value as needed */
-  }
-</style>
+
 
 
 <div class="profiles"> 
@@ -21,15 +17,10 @@ header:
 <figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
   <figcaption class="profile">
-    <p>
-      <a href="{{ person.url }}" target="_blank">{{ person.name }}</a><br/>
-      {{ person.title }} <br/> 
-      {{ person.institution }} <br/> 
-      {{ person.institution2 }} <br/> 
-      {{ person.position }}
-    </p>
+  <a href="{{ person.url }}" target="_blank">{{ person.name }}</a><br/> {{ person.title }}</p>
   </figcaption>
 </figure>
 {% endfor %}
 <div class="stop"/>
 </div>
+
