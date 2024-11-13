@@ -10,7 +10,7 @@ toc: false
 
 ## Events
 
-<img align="right" width="400" src="/assets/images/workshop2.jpg" />
+<img align="right" width="405" src="/assets/images/workshop2.jpg" />
 
 ### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
 
@@ -25,7 +25,7 @@ The workshop included the presentation and discussion of a dashboard that was pr
 
 <hr/> <!-- Adds a horizontal line -->
 
-<img align="right" width="400" src="/assets/images/workshop1.PNG" />
+<img align="right" width="405" src="/assets/images/workshop1.PNG" />
 
 ### PolarVis Workshop II: Polarization, Visual Storytelling and Affective Connections on Climate Justice
 
