@@ -10,7 +10,7 @@ toc: false
 
 ## Events
 
-<img align="right" width="400" src="/assets/images/workshop1.PNG" />
+<img align="right" width="300" src="/assets/images/workshop1.PNG" />
 
 ### PolarVis Workshop II: Polarization, Visual Storytelling and Affective Connections on Climate Justice
 
@@ -34,9 +34,9 @@ Date: 11 March 2024
 
 Place:  Research Centre for Social Sciences, HUM-REN, Hungary 
 
-<img align="right" width="300" src="/assets/images/workshop2.jpg" />
-
 The workshop included the presentation and discussion of a dashboard that was produced as a result of the PolarVis research project. The dashboard outlined the project’s main findings on the visual communication of climate movements and presented suggestions on how to better adjust visuals to various goals (for example, to mobilise greater masses). 
+
+<img align="center" width="500" src="/assets/images/workshop2.jpg" />
 
 
 
