@@ -16,8 +16,7 @@ Date: 11 March 2024
 
 Place:  Research Centre for Social Sciences, HUM-REN, Hungary 
 
-The workshop included the presentation and discussion of a dashboard that was produced as a result of the PolarVis research project. The dashboard outlined the project’s main findings on the visual communication of climate movements and presented suggestions on how to better adjust visuals to various goals (for example, to mobilise greater masses). 
-
+Scholars, journalists and practitioners gathered at the Research Centre for Social Sciences to discuss PolarVis findings about visual climate communication, and explored an interactive social media dashboard being produced as a result of the PolarVis research project.
 
 
 
