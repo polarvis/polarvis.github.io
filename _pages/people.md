@@ -9,12 +9,25 @@ header:
 
 ## Project members
 
+<style>
+  .profile p {
+    font-size: 0.8em; /* Adjust this value as needed */
+  }
+</style>
+
+
 <div class="profiles"> 
 {% for person in site.data.people.members %}
 <figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
   <figcaption class="profile">
-  <p>{{ person.name }} <br/> {{ person.title }}</p>
+    <p>
+      <a href="{{ person.url }}" target="_blank">{{ person.name }}</a><br/>
+      {{ person.title }} <br/> 
+      {{ person.institution }} <br/> 
+      {{ person.institution2 }} <br/> 
+      {{ person.position }}
+    </p>
   </figcaption>
 </figure>
 {% endfor %}
