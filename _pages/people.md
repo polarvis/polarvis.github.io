@@ -11,7 +11,10 @@ header:
 
 <style>
   .profile p {
-    font-size: 0.8em; /* Adjust this value as needed */
+    font-size: 0.8em; /* Adjust font size as needed */
+    word-wrap: break-word; /* Allows words to break to the next line if too long */
+    word-break: break-word; /* Forces breaks in words that are too long */
+    max-width: 200px; /* Set a max width to control the width of the box */
   }
 </style>
 
