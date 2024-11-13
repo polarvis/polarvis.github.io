@@ -8,6 +8,8 @@ main:
     url: /publications/  
   - title: "Team"
     url: /team/
+  - title: "Events"
+    url: /events/
   - title: "Podcast"
     url: /podcast/
   - title: "Contact"
