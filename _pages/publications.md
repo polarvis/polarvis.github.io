@@ -3,7 +3,7 @@ layout: infolab-toplevel
 title: Publications 
 permalink: /publications/
 title: Events 
-permalink: /events/
+permalink: /publications/
 header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.4"
