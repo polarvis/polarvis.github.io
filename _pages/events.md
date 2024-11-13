@@ -14,7 +14,7 @@ toc: false
 
 Date: 11 March 2024 
 
-Place:  Research Centre for Social Sciences, HUM-REN, Hungary 
+Place:  Research Centre for Social Sciences, HUN-REN, Hungary 
 
 Scholars, journalists and practitioners gathered at the Research Centre for Social Sciences to discuss PolarVis findings about visual climate communication, and explored an interactive social media dashboard being produced as a result of the PolarVis research project.
 
