@@ -3,6 +3,14 @@
 - year: 2024
   publications:
 
+    - title: "Which Reveals Ideology Better? Comparing Self-Presentation and Public Rhetoric in the Facebook Climate Debate via Embeddings Analysis"
+      type: "in-proceedings"
+      author: Luigi Arminio and Luca Rossi
+      conference: "In: Aiello L. M., Chakraborty, T., and Gaito, S. The 16th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024). Lecture Notes in Computer Science, vol 15213. Springer, Cham."
+      year: 2024
+      doi:
+      fulltext:
+      git:
     - title: "Images of Nature in Online Climate Activism in Germany and Argentina: Science, Affect and Non-Human ‘Everybodies’"
       type: "article"
       author: Nicole Doerr and María Florencia Langa
