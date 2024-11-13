@@ -9,18 +9,14 @@ header:
 
 ## Project members
 
-
-
-
 <div class="profiles"> 
 {% for person in site.data.people.members %}
 <figure class="profile">
   <img class="profilepic" src="{{ person.pic }}" alt="{{ person.name }}">
   <figcaption class="profile">
-  <a href="{{ person.url }}" target="_blank">{{ person.name }}</a><br/> {{ person.title }}</p>
+  <p>{{ person.name }} <br/> {{ person.title }}</p>
   </figcaption>
 </figure>
 {% endfor %}
 <div class="stop"/>
 </div>
-
