@@ -8,8 +8,6 @@ header:
 toc: false
 ---
 
-## Events
-
 <img align="right" width="405" src="/assets/images/workshop2.jpg" />
 
 ### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
