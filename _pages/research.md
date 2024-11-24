@@ -50,9 +50,9 @@ Selected activities:
  --------
 <br />
 
-<img align="left" width="470" src="/assets/images/conference.jpg" style="margin-right: 15px; margin-bottom: 15px;" />
-
-
+<div style="float: left; margin-right: 15px; margin-bottom: 15px;">
+  ![](assets/images/conference.jpg)
+</div>
  
 #### PUBLICS
 
