@@ -50,7 +50,7 @@ Selected activities:
  --------
 <br />
 
-<img align="right" width="430" src="/assets/images/greenenergy.jpg" />
+<img align="right" width="430" src="/assets/images/network.jpg" />
 
 #### PUBLICS
 
@@ -74,7 +74,7 @@ PolarVis examines how visual content is co-shared and propagated through online 
 Selected activities:
 
 - [Journal Article](https://doi.org/10.1080/17524032.2024.2420787): L. Rossi, A. Segerberg, L. Arminio., and M. Magnani. (2024). Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change. Environmental Communication, 1–19. 
-- Keynote: A. Waldherr, P. Tolochko, and N. Righetti. (2024). Exploring Structural and Affective Polarization in Climate Activism. P³: Power, Propaganda, Polarisation. ICA 2024 Postconference 26-27 June 2024, Digital Media Research Centre Queensland University of Technology Brisbane, Australia.
+- [Keynote](https://research.qut.edu.au/dmrc/wp-content/uploads/sites/5/2024/02/P3-Postconference-Programme.pdf): A. Waldherr, P. Tolochko, and N. Righetti. (2024). Exploring Structural and Affective Polarization in Climate Activism. P³: Power, Propaganda, Polarisation. ICA 2024 Postconference 26-27 June 2024, Digital Media Research Centre Queensland University of Technology Brisbane, Australia.
 - Conference Presentation: K. Uba, A. Segerberg and M. Magnani. Climate movements and their countermobilisation in the digital world. European Consortium for Political Research Joint Sessions 25-28 April 2023, Toulouse, France.
 
 <br />
