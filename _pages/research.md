@@ -50,7 +50,7 @@ Selected activities:
  --------
 <br />
 
-<img align="right" width="430" src="/assets/images/network.jpg" />
+<img align="right" width="440" src="/assets/images/network.png" />
 
 #### PUBLICS
 
