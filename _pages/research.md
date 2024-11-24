@@ -52,6 +52,9 @@ Selected activities:
 
 <img align="left" width="470" src="/assets/images/conference.jpg" />
 
+<br />
+
+ 
 #### PUBLICS
 
 PolarVis develops methodologies to quantify polarisation in social networks, and studies dynamics of emotion and affect around visual content in online climate communication. The project addresses the following types of questions: What kind of public (re)action is observable around the visual content that movements and countermovements share online? How is this connected with the emergence of affective publics and antagonising counterpublics? 
