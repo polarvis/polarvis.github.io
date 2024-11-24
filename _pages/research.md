@@ -17,7 +17,7 @@ PolarVis aims to understand how, why and with what consequences visual content b
  
 # Research Areas 
 
-<img align="right" width="500" src="/assets/images/protestbears.png" />
+<img align="right" width="470" src="/assets/images/protestbears.png" />
 
 #### PRODUCTION
 
@@ -49,6 +49,8 @@ Selected activities:
 
  --------
 <br />
+
+<img align="left" width="470" src="/assets/images/conference.jpg" />
 
 #### PUBLICS
 
