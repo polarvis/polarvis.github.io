@@ -20,7 +20,15 @@ PolarVis aims to understand how, why and with what consequences visual content b
 
 #### PRODUCTION
 
-How do (counter)movements use visual communication on digital platforms as part of their communication repertoire to mobilise engage, and generate narratives about themselves and others?
+PolarVis uses interviews to understand the visual communication strategies of climate movement actors and stakeholders and address the following types of questions: How do (counter)movements use visual communication on digital platforms as part of their communication repertoire to mobilise, engage, and generate narratives about themselves and others?  
+
+Selected actvities:
+
+- Stakeholder Workshop on Polarized Perspectives, 11 March 2024 HUN-REN Budapest, Hungary.
+- Conference Presentation. D. Oross, D. Mikecz, and D. Rákos ‘The visual communication of climate change in a shifting political environment,’ Hungarian Political Science Association, 16-17 May 2024, Pécs, Hungary.
+- Conference Presentation. D. Mikecz, D. Oross and D. Rákos ‘Images as means of cohesion and polarization in Hungary.’ Alternative Futures and Popular Protest Conference, 17-18 June 2024, Manchester, UK.
+
+
 
 
 #### PICTURES
