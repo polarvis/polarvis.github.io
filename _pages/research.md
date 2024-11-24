@@ -29,6 +29,7 @@ Selected actvities:
 - Conference Presentation: D. Oross, D. Mikecz, and D. Rákos ‘The visual communication of climate change in a shifting political environment,’ Hungarian Political Science Association, 16-17 May 2024, Pécs, Hungary.
 - Conference Presentation: D. Mikecz, D. Oross and D. Rákos ‘Images as means of cohesion and polarization in Hungary.’ Alternative Futures and Popular Protest Conference, 17-18 June 2024, Manchester, UK.
 
+<br />
 
  --------
 <br />
@@ -42,6 +43,7 @@ Selected activities:
 - [Journal Article](doi.org/10.20446/JEP-2414-3197-40-1-33): N. Doerr and M. Langa. Images of Nature in Online Climate Activism in Germany and Argentina: Androcentrism, affective connections and Non-Human ‘Everybodies’. Austrian Journal of Development Studies, Vol 40, Issue 1-2 PP 33-63 
 - Conference Panel: ‘Transnational Contestation, Visual Digital Storytelling, Affect, Polarisation, and Trust’, European International Studies Association, 5-9 September 2023, Potsdam, Germany.
 - [Stakeholder Workshop on Polarization}(https://polarvis.github.io/events/): Visual Storytelling and Affective Connections on Climate Justice, 10-11 October 2024, University of Copenhagen, Denmark.
+<br />
 
  --------
 <br />
@@ -55,6 +57,7 @@ Selected activities:
 - Conference Presentation: P. Tolochko, N. Righetti, and A. Waldherr. ‘Measuring Political Polarisation in Online Social Movement Networks: A Graph Embedding Approach.’ European Consortium for Political Research General Conference, 4-8 September 2023, Prague, Czech Republic.
 - Conference Proceeding: L. Arminio and L. Rossi (2024). Measuring the Sociolinguistic Patterns of Climate Debate Polarization in the Facebook Context. In: Aiello L. M., Chakraborty, T., and Gaito, S. The 16th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024). Lecture Notes in Computer Science, vol 15213. Springer, Cham.
 - Conference Presentation: P. Tolochko, N., Righetti, and A. Waldherr. ‘Divisive imagery: Affective polarisation analysis in climate activism visuals.’ ECREA 2024 Communication & social (dis)order. 10th European Communication Conference. 24 – 27 September 2024, Ljubljana, Slovenia.
+<br />
 
  --------
 <br />
@@ -68,6 +71,8 @@ Selected activities:
 - [Journal Article](https://doi.org/10.1080/17524032.2024.2420787): L. Rossi, A. Segerberg, L. Arminio., and M. Magnani. (2024). Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change. Environmental Communication, 1–19. 
 - Keynote: A. Waldherr, P. Tolochko, and N. Righetti. (2024). Exploring Structural and Affective Polarization in Climate Activism. P³: Power, Propaganda, Polarisation. ICA 2024 Postconference 26-27 June 2024, Digital Media Research Centre Queensland University of Technology Brisbane, Australia.
 - Conference Presentation: K. Uba, A. Segerberg and M. Magnani. Climate movements and their countermobilisation in the digital world. European Consortium for Political Research Joint Sessions 25-28 April 2023, Toulouse, France.
+
+<br />
 
 
 
