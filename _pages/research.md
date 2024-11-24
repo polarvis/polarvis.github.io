@@ -43,7 +43,7 @@ Selected activities:
 
 - [Journal Article](doi.org/10.20446/JEP-2414-3197-40-1-33): N. Doerr and M. Langa. Images of Nature in Online Climate Activism in Germany and Argentina: Androcentrism, affective connections and Non-Human ‘Everybodies’. Austrian Journal of Development Studies, Vol 40, Issue 1-2 PP 33-63 
 - Conference Panel: ‘Transnational Contestation, Visual Digital Storytelling, Affect, Polarisation, and Trust’, European International Studies Association, 5-9 September 2023, Potsdam, Germany.
-- [Stakeholder Workshop on Polarization}(https://polarvis.github.io/events/): Visual Storytelling and Affective Connections on Climate Justice, 10-11 October 2024, University of Copenhagen, Denmark.
+- [Stakeholder Workshop on Polarization](https://polarvis.github.io/events/): Visual Storytelling and Affective Connections on Climate Justice, 10-11 October 2024, University of Copenhagen, Denmark.
 
 <br />
 
