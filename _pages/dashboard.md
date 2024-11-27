@@ -1,6 +1,6 @@
 ---
 layout: infolab-toplevel
-title: Podcast
+title: Dashboard
 permalink: /dashboard/
 header:
   overlay_image: /assets/images/water.jpg
