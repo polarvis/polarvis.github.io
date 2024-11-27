@@ -15,7 +15,7 @@ A key contribution of the PolarVis research project is the development and desig
 
 The PolarVis Social Media Dashboard is currently in development and will be available here soon! 
 
-<img align="center" width="900" src="/assets/images/dashboard3.png" />
+<img align="center" width="1100" src="/assets/images/dashboard3.png" />
 
 
 
