@@ -10,11 +10,11 @@ header:
 ## The Social Media Dashboard 
 
 
-<img align="center" width="600" src="/assets/images/dashboard.png" />
+<img align="center" width="800" src="/assets/images/dashboard.png" />
 
-<img align="center" width="600" src="/assets/images/dashboard2.png" />
+<img align="center" width="800" src="/assets/images/dashboard2.png" />
 
-<img align="center" width="600" src="/assets/images/dashboard3.png" />
+<img align="center" width="800" src="/assets/images/dashboard3.png" />
 
 
 
