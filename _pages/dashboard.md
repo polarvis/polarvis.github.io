@@ -10,6 +10,8 @@ toc: True
 
 A key contribution of the PolarVis research project is the development and design of two dashboards to make our research findings available for the public. The two dashboards are currently under development but will be available here soon! Meanwhile we are happy to share a preview on their themes and functions with you: 
 
+<br />
+
 
 ## The PolarVis Social Media Dashboard 
 
@@ -19,6 +21,8 @@ A key contribution of the PolarVis research project is the development and desig
 <img align="center" width="1100" src="/assets/images/dashboard3.png" />
 
 
+
+<br />
 
 
 ## The PolarVis Polarisation Dashboard 
@@ -40,6 +44,9 @@ The dashboard also allows identifying instances of image-sharing across partisan
 Additionally, the dashboard allows users to track how an image spreads across platforms by following its historical trajectory from one platform to another.
 
 <img align="center" width="1100" src="/assets/images/polarisationdashboard4.jpg" />
+
+<br />
+
 
 Cases of cross-platform sharing, where the same image is shared on multiple platforms, are further highlighted by a dashboard component consisting of a filterable bar chart that displays the most shared images across selected social media platforms. Clicking on a bar provides detailed information about the image, including its dissemination across different platforms.
 
