@@ -8,7 +8,7 @@ header:
 toc: True
 ---
 
-A key contribution of the PolarVis research project is the development and design of two dashboards to make our research findings available for the public. The two dashboards are currently under development but will be available here soon! Meanwhile we are happy to share a preview on their themes and functions with you: 
+A key contribution of the PolarVis research project is the development and design of two dashboards to make our research findings available to the public. The two dashboards are currently under development and will be available here soon! Meanwhile we are happy to share a preview on their themes and functions with you: 
 
 <br />
 
