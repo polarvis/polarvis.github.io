@@ -25,7 +25,7 @@ A key contribution of the PolarVis research project is the development and desig
 <br />
 
 
-## The PolarVis Polarisation Dashboard 
+## The PolarVis Election Dashboard 
 
 This interactive dashboard visualizes and analyzes social media dynamics related to climate change messages featuring visual content, published in the lead-up to the 2021 German federal election. It explores a dataset of approximately 84,000 social media posts from Instagram, Facebook, and Twitter, each containing at least one image.
 
