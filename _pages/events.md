@@ -8,6 +8,12 @@ header:
 toc: false
 ---
 
+
+<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ](https://www.youtube.com/watch?v=0ZPvZHxT-U4)" frameborder="0" allowfullscreen></iframe>
+
+<hr/> <!-- Adds a horizontal line -->
+
+
 <img align="right" width="405" src="/assets/images/workshop2.jpg" />
 
 ### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
