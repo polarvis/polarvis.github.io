@@ -20,6 +20,7 @@ Place:  Research Centre for Social Sciences, HUN-REN, Hungary
 Scholars, journalists and practitioners gathered at the Research Centre for Social Sciences to discuss PolarVis findings about visual climate communication, and explored an interactive social media dashboard being produced as a result of the PolarVis research project.
 
 
+<br />
 
 <hr/> <!-- Adds a horizontal line -->
 
@@ -34,7 +35,12 @@ Place: University of Copenhagen, CSS Campus, CoMMonS Research Centre
 
 This workshop explored the role of visual content in shaping digital politics on climate change. Scholars, activists, students, and practitioners gathered at University of Copenhagen as part of the PolarVis worskhop to discuss how visuals influence public perception and engagement.
 
+<br />
+<br />
+
 <hr/> <!-- Adds a horizontal line -->
+
+<br />
 
 ### Research Talk:  How can AI help us understand our society? 
 
