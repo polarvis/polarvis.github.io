@@ -8,8 +8,10 @@ header:
 toc: false
 ---
 
+### Talk:  How can AI help us understand our society? 
+In this talk, professor Matteo Magnani reflects on the opportunity AI offers for social science research and reflects on learnings from the PolarVos research project.
 
-<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ](https://www.youtube.com/watch?v=0ZPvZHxT-U4)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZPvZHxT-U4?si=nY0HPNVZcp9EBA31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr/> <!-- Adds a horizontal line -->
 
