@@ -42,7 +42,7 @@ Date: 04 December 2024
 
 Place: Uppsala University, Sweden
 
-In this talk, professor Matteo Magnani reflects on how Large Language Models (LLMS) can be used to analyse socially and politically relevant (visual) data and gives insights into learnings from the PolarVos research project.
+In this talk, Professor Matteo Magnani reflects on how Large Language Models (LLMS) can be used to analyse socially and politically relevant (visual) data and gives insights into learnings from the PolarVos research project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ZPvZHxT-U4?si=nY0HPNVZcp9EBA31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
