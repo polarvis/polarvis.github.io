@@ -9,7 +9,7 @@ toc: false
 ---
 
 
-<img align="right" width="390" src="/assets/images/workshop2.jpg" />
+<img align="right" width="405" src="/assets/images/workshop2.jpg" />
 
 ### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
 
@@ -24,7 +24,7 @@ Scholars, journalists and practitioners gathered at the Research Centre for Soci
 
 <hr/> <!-- Adds a horizontal line -->
 
-<img align="right" width="390" src="/assets/images/workshop1.PNG" />
+<img align="right" width="405" src="/assets/images/workshop1.PNG" />
 
 ### PolarVis Workshop II: Polarization, Visual Storytelling and Affective Connections on Climate Justice
 
@@ -40,6 +40,8 @@ This workshop explored the role of visual content in shaping digital politics on
 
 <hr/> <!-- Adds a horizontal line -->
 
+<br />
+<br />
 <br />
 
 ### Research Talk:  How can AI help us understand our society? 
