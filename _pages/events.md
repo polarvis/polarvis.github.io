@@ -8,13 +8,6 @@ header:
 toc: false
 ---
 
-### Talk:  How can AI help us understand our society? 
-In this talk, professor Matteo Magnani reflects on the opportunity AI offers for social science research and reflects on learnings from the PolarVos research project.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZPvZHxT-U4?si=nY0HPNVZcp9EBA31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<hr/> <!-- Adds a horizontal line -->
-
 
 <img align="right" width="405" src="/assets/images/workshop2.jpg" />
 
@@ -41,9 +34,18 @@ Place: University of Copenhagen, CSS Campus, CoMMonS Research Centre
 
 This workshop explored the role of visual content in shaping digital politics on climate change. Scholars, activists, students, and practitioners gathered at University of Copenhagen as part of the PolarVis worskhop to discuss how visuals influence public perception and engagement.
 
+<hr/> <!-- Adds a horizontal line -->
+
+### Research Talk:  How can AI help us understand our society? 
+
+Date: 04 December 2024 
+
+Place: Uppsala University, Sweden
+
+In this talk, professor Matteo Magnani reflects on how Large Language Models (LLMS) can be used to analyse socially and politically relevant (visual) data and gives insights into learnings from the PolarVos research project.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZPvZHxT-U4?si=nY0HPNVZcp9EBA31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
-
-
+<hr/> <!-- Adds a horizontal line -->
 
