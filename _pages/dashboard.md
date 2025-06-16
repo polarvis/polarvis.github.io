@@ -5,7 +5,7 @@ permalink: /dashboard/
 header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
-toc: True
+toc: F
 ---
 
 ## The PolarVis Polarisation Dashboard 
