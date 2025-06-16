@@ -10,46 +10,43 @@ toc: True
 
 ## The PolarVis Polarisation Dashboard 
 
-<div style="max-width: 100%; overflow-x: auto; text-align: center; padding: 1rem 0;">
-  <div class="tableauPlaceholder" id="viz1750087120068" style="display: inline-block; max-width: 100%; min-width: 320px;">
-    <noscript>
-      <a href='#'>
-        <img alt='Dashboard 1' src='https://public.tableau.com/static/images/77/77FQMF6S9/1_rss.png' style='border: none;' />
-      </a>
-    </noscript>
-    <object class="tableauViz" style="display:none;">
-      <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-      <param name="embed_code_version" value="3" />
-      <param name="path" value="shared/77FQMF6S9" />
-      <param name="toolbar" value="yes" />
-      <param name="static_image" value="https://public.tableau.com/static/images/77/77FQMF6S9/1.png" />
-      <param name="animate_transition" value="yes" />
-      <param name="display_static_image" value="yes" />
-      <param name="display_spinner" value="yes" />
-      <param name="display_overlay" value="yes" />
-      <param name="display_count" value="yes" />
-      <param name="language" value="en-US" />
-    </object>
-  </div>
+<div class='tableauPlaceholder' id='viz1750088466954' style='position: relative;'>
+  <noscript>
+    <a href='#'>
+      <img alt='Dashboard preview' src='https://public.tableau.com/static/images/TQ/TQRNN2NNP/1.png' style='border: none;' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='path' value='views/OnlinePolarizationaroundClimateChangeinEurope/Dashboard1' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/TQ/TQRNN2NNP/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+  </object>
 </div>
 
 {% raw %}
-<script type="text/javascript">
-  var divElement = document.getElementById('viz1750087120068');
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1750088466954');
   var vizElement = divElement.getElementsByTagName('object')[0];
 
-  // Adjust dimensions responsively
-  const pageWidth = window.innerWidth || document.documentElement.clientWidth;
+  const w = window.innerWidth;
 
-  if (pageWidth > 1000) {
+  if (w > 1000) {
     vizElement.style.width = '1000px';
-    vizElement.style.height = '2000px';
-  } else if (pageWidth > 700) {
-    vizElement.style.width = '90vw';
-    vizElement.style.height = '2200px';
-  } else {
+    vizElement.style.height = '1800px';
+  } else if (w > 700) {
     vizElement.style.width = '95vw';
-    vizElement.style.height = '2500px';
+    vizElement.style.height = '2000px';
+  } else {
+    vizElement.style.width = '100vw';
+    vizElement.style.height = '2300px';
   }
 
   var scriptElement = document.createElement('script');
@@ -57,7 +54,6 @@ toc: True
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 {% endraw %}
-
 
 
 
