@@ -9,51 +9,55 @@ toc: True
 ---
 
 ## The PolarVis Polarisation Dashboard 
-<!-- Full-width wrapper -->
-<div style="max-width: none; width: 100vw; margin-left: calc(-50vw + 50%); overflow-x: auto;">
 
-  <div class='tableauPlaceholder' id='viz1750087120068' style='position: relative;'>
+<div style="max-width: 100%; overflow-x: auto; text-align: center; padding: 1rem 0;">
+  <div class="tableauPlaceholder" id="viz1750087120068" style="display: inline-block; max-width: 100%; min-width: 320px;">
     <noscript>
       <a href='#'>
-        <img alt='Dashboard 1' src='https://public.tableau.com/static/images/77/77FQMF6S9/1_rss.png' style='border: none' />
+        <img alt='Dashboard 1' src='https://public.tableau.com/static/images/77/77FQMF6S9/1_rss.png' style='border: none;' />
       </a>
     </noscript>
-    <object class='tableauViz' style='display:none;'>
-      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-      <param name='embed_code_version' value='3' />
-      <param name='path' value='shared/77FQMF6S9' />
-      <param name='toolbar' value='yes' />
-      <param name='static_image' value='https://public.tableau.com/static/images/77/77FQMF6S9/1.png' />
-      <param name='animate_transition' value='yes' />
-      <param name='display_static_image' value='yes' />
-      <param name='display_spinner' value='yes' />
-      <param name='display_overlay' value='yes' />
-      <param name='display_count' value='yes' />
-      <param name='language' value='en-US' />
+    <object class="tableauViz" style="display:none;">
+      <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+      <param name="embed_code_version" value="3" />
+      <param name="path" value="shared/77FQMF6S9" />
+      <param name="toolbar" value="yes" />
+      <param name="static_image" value="https://public.tableau.com/static/images/77/77FQMF6S9/1.png" />
+      <param name="animate_transition" value="yes" />
+      <param name="display_static_image" value="yes" />
+      <param name="display_spinner" value="yes" />
+      <param name="display_overlay" value="yes" />
+      <param name="display_count" value="yes" />
+      <param name="language" value="en-US" />
     </object>
   </div>
-
-  {% raw %}
-  <script type='text/javascript'>
-    var divElement = document.getElementById('viz1750087120068');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    if (divElement.offsetWidth > 800) {
-      vizElement.style.width = '1200px';
-      vizElement.style.height = '2800px';
-    } else if (divElement.offsetWidth > 500) {
-      vizElement.style.width = '1000px';
-      vizElement.style.height = '2600px';
-    } else {
-      vizElement.style.width = '100%';
-      vizElement.style.height = '2400px';
-    }
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
-  </script>
-  {% endraw %}
-
 </div>
+
+{% raw %}
+<script type="text/javascript">
+  var divElement = document.getElementById('viz1750087120068');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+
+  // Adjust dimensions responsively
+  const pageWidth = window.innerWidth || document.documentElement.clientWidth;
+
+  if (pageWidth > 1000) {
+    vizElement.style.width = '1000px';
+    vizElement.style.height = '2000px';
+  } else if (pageWidth > 700) {
+    vizElement.style.width = '90vw';
+    vizElement.style.height = '2200px';
+  } else {
+    vizElement.style.width = '95vw';
+    vizElement.style.height = '2500px';
+  }
+
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+{% endraw %}
+
 
 
 
