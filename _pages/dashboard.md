@@ -8,23 +8,18 @@ header:
 toc: True
 ---
 
-A key contribution of the PolarVis research project is the development and design of two dashboards to make our research findings available to the public. The two dashboards are currently under development and will be available here soon! Meanwhile we are happy to share a preview on their themes and functions with you: 
-
-<br />
-
-
-<div class='tableauPlaceholder' id='viz1750086680412' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1750087120068' style='position: relative'>
   <noscript>
     <a href='#'>
-      <img alt='Dashboard 1' src='https://public.tableau.com/static/images/TQ/TQRNN2NNP/1_rss.png' style='border: none' />
+      <img alt='Dashboard 1' src='https://public.tableau.com/static/images/77/77FQMF6S9/1_rss.png' style='border: none' />
     </a>
   </noscript>
   <object class='tableauViz' style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version' value='3' />
-    <param name='path' value='views/OnlinePolarizationaroundClimateChangeinEurope/Dashboard1?:embed=true&:display_count=yes&:language=en-US' />
+    <param name='path' value='shared/77FQMF6S9' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/TQ/TQRNN2NNP/1.png' />
+    <param name='static_image' value='https://public.tableau.com/static/images/77/77FQMF6S9/1.png' />
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
@@ -34,8 +29,9 @@ A key contribution of the PolarVis research project is the development and desig
   </object>
 </div>
 
+{% raw %}
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1750086680412');
+  var divElement = document.getElementById('viz1750087120068');
   var vizElement = divElement.getElementsByTagName('object')[0];
   if (divElement.offsetWidth > 800) {
     vizElement.style.width = '100%';
@@ -51,6 +47,7 @@ A key contribution of the PolarVis research project is the development and desig
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 
 ## The PolarVis Social Media Dashboard 
