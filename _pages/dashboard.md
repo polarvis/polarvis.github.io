@@ -9,51 +9,56 @@ toc: True
 ---
 
 ## The PolarVis Polarisation Dashboard 
+<!-- Full-width wrapper -->
+<div style="max-width: none; width: 100vw; margin-left: calc(-50vw + 50%); overflow-x: auto;">
 
-<div class='tableauPlaceholder' id='viz1750087120068' style='position: relative'>
-  <noscript>
-    <a href='#'>
-      <img alt='Dashboard 1' src='https://public.tableau.com/static/images/77/77FQMF6S9/1_rss.png' style='border: none' />
-    </a>
-  </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-    <param name='embed_code_version' value='3' />
-    <param name='path' value='shared/77FQMF6S9' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/77/77FQMF6S9/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-US' />
-  </object>
+  <div class='tableauPlaceholder' id='viz1750087120068' style='position: relative;'>
+    <noscript>
+      <a href='#'>
+        <img alt='Dashboard 1' src='https://public.tableau.com/static/images/77/77FQMF6S9/1_rss.png' style='border: none' />
+      </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='path' value='shared/77FQMF6S9' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https://public.tableau.com/static/images/77/77FQMF6S9/1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-US' />
+    </object>
+  </div>
+
+  {% raw %}
+  <script type='text/javascript'>
+    var divElement = document.getElementById('viz1750087120068');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    if (divElement.offsetWidth > 800) {
+      vizElement.style.width = '1200px';
+      vizElement.style.height = '2800px';
+    } else if (divElement.offsetWidth > 500) {
+      vizElement.style.width = '1000px';
+      vizElement.style.height = '2600px';
+    } else {
+      vizElement.style.width = '100%';
+      vizElement.style.height = '2400px';
+    }
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+  </script>
+  {% endraw %}
+
 </div>
 
-{% raw %}
-<script type='text/javascript'>
-  var divElement = document.getElementById('viz1750087120068');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width = '100%';
-    vizElement.style.height = '4027px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width = '1200px';
-    vizElement.style.height = '6027px';
-  } else {
-    vizElement.style.width = '100%';
-    vizElement.style.height = '3577px';
-  }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
-{% endraw %}
 
 
 
-### About the polarization dashboard: 
+### About the polarization dashboard 
 This interactive dashboard visualizes and analyzes social media dynamics related to climate change messages featuring visual content, published in the lead-up to the 2021 German federal election. It explores a dataset of approximately 84,000 social media posts from Instagram, Facebook, and Twitter, each containing at least one image.
 
 The dashboard was developed by [Tobias Raidl](https://www.linkedin.com/in/tobias-raidl/) as part of the Interdisciplinary Project in Data Science (TU Wien), during which he collaborated with the PolarVis team at the University of Vienna to interpret the key analytical goals of the PolarVis project and create a dashboard that allows users to explore and analyze the data in the most effective way for the intended purposes.
