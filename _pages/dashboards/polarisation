@@ -1,7 +1,7 @@
 ---
 layout: infolab-toplevel
 title: The PolarVis Polarisation Dashboard
-permalink: /polarisation/
+permalink: /dashboards/polarisation/
 header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
