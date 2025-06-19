@@ -14,8 +14,8 @@ toc: false
 
 ### The PolarVis Polarisation Dashboard
 
-[Polarisation Dashboard](/polarisation/)
+[Polarisation Dashboard]({% link dashboards/polarisation.md %})
 
 ## The PolarVis Workshop Dashboard
 
-[Workshop Dashboard](/workshop/)
+[Workshop Dashboard]({% link dashboards/workshop.md %})
