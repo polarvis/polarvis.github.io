@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: infolab-toplevel
 title: Dashboards
 permalink: /dashboard/
 header:
@@ -24,11 +24,22 @@ Whether you're a researcher, communicator, or simply curious about online debate
 
 
 
+
 ## The PolarVis Social Media Dashboard
 
 
-<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-<tableau-viz id="tableauViz" src='https://public.tableau.com/shared/23F6DQMXD'  width='100%' toolbar='bottom' hide-tabs> </tableau-viz>
+<div class="tableau-responsive-container">
+    <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+    <tableau-viz
+      id="tableauViz"
+      src='https://public.tableau.com/shared/23F6DQMXD'
+      width='100%'
+      height='800px'
+      toolbar='bottom'
+      hide-tabs
+    >
+    </tableau-viz>
+</div>
 
 
 
@@ -36,13 +47,26 @@ Whether you're a researcher, communicator, or simply curious about online debate
 
 <br />
 
-This interactive dashboard visualizes and analyzes social media dynamics related to climate change messages featuring visual content, published in the lead-up to the 2021 German federal election. It explores a dataset of approximately 84,000 social media posts from Instagram, Facebook, and Twitter, each containing at least one image.The dashboard was developed by* Tobias Raidl](https://www.linkedin.com/in/tobias-raidl/) as part of the Interdisciplinary Project in Data Science (TU Wien), during which he collaborated with the PolarVis team at the University of Vienna to interpret the key analytical goals of the PolarVis project and create a dashboard that allows users to explore and analyze the data in the most effective way for the intended purposes.
+This interactive dashboard visualizes how images circulated on social media in the weeks leading up to the 2021 German federal election. Based on a dataset of over 84,000 posts from Instagram, Facebook, and Twitter, it offers insights into the emotional and visual dynamics of online climate communication.
 
-A primary objective of the visualization is to identify instances of image-sharing polarization, where images are shared exclusively within partisan communities. This functionality is achieved through a component of the dashboard consisting of a large network graph, where nodes represent social media accounts. Two accounts are connected if they shared at least one identical image during the six-week period leading up to the election. In addition to a filter option, the graph visualization includes the following interactive features: clicking on a node reveals more information about the corresponding account, while clicking on a connection displays the images shared by both accounts.
+At the heart of the dashboard is a network graph showing how identical images were shared across social media accounts. By mapping these image-sharing patterns, the dashboard helps uncover both polarisation—when images circulate only within partisan communities—and cross-cutting reach, where the same visuals are shared across political divides.
+
+Developed by [Tobias Raidl (TU Wien)](https://www.linkedin.com/in/tobias-raidl/) in collaboration with the PolarVis team at the University of Vienna, the tool was designed to support exploratory analysis of visual content and its role in shaping online debate.
+
+Users can:
+
+    Explore how images connect political communities
+
+    Click on nodes to see account-level details
+
+    View shared images and emotional reactions
+
+    Identify patterns of polarisation and overlap in visual messaging
+
+Together, these features shed light on how climate visuals both bridge and divide online publics. Here are some previous of the dashboard (full version coming soon). 
 
 <img align="center" width="1100" src="/assets/images/polarisationdashboard.jpg" />
 
-The dashboard also allows identifying instances of image-sharing across partisan lines, where accounts associated with different political parties shared identical images.
 
 <img align="center" width="1100" src="/assets/images/polarisationdashboard2.jpg" />
 
@@ -54,6 +78,11 @@ The dashboard also allows identifying instances of image-sharing across partisan
 
 ## The PolarVis Workshop Dashboard
 
-A key contribution of the PolarVis research project is the development and design of a Social Media Dashboard to compare different visual climate communication strategies. The dashboard is an interactive tool that empowers website visitors to explore data on social media posts. It enables users to understand the impact of posts on audiences, evaluate the performance of specific posts over time, and compare communication strategies used by various climate change actors.
+The Workshop Dashboard was developed as a hands-on tool to support collaboration between researchers and climate communicators. Built on co-design principles, it is used in local workshops with stakeholders working to engage citizens around climate issues.
+
+The goal was to create a space for shared reflection: while communicators often know what works in their own context, it’s harder to compare strategies across different actors. This dashboard makes such comparison possible by highlighting differences in visual messaging, emotional tone, and engagement.
+
+By drawing on workshop participants’ contextual knowledge and feedback, the dashboard evolved into a tool that helps uncover patterns, spark discussion, and support more effective and reflective communication practices.
+
 
 <img align="center" width="1100" src="/assets/images/dashboard3.png" />
