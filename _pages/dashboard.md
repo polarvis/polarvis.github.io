@@ -10,7 +10,7 @@ toc: false
 
 ## The PolarVis Social Media Dashboard
 
-[Social Media Dashboard](/socialmedia/)
+[Social Media Dashboard](https://public.tableau.com/app/profile/hana.dubovska/viz/shared/TQRNN2NNP)
 
 ### The PolarVis Polarisation Dashboard
 
