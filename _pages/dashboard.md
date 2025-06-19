@@ -1,11 +1,11 @@
 ---
-layout: infolab-toplevel
+layout: default
 title: Dashboards
 permalink: /dashboard/
 header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
-toc: false
+toc: true
 ---
 
 ## Explore Our Dashboards
