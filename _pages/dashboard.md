@@ -26,7 +26,11 @@ Whether you're a researcher, communicator, or simply curious about online debate
 
 ## The PolarVis Social Media Dashboard
 
-[Social Media Dashboard](https://public.tableau.com/app/profile/hana.dubovska/viz/shared/TQRNN2NNP)
+
+<script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+<tableau-viz id="tableauViz" src='https://public.tableau.com/shared/23F6DQMXD'  width='100%' toolbar='bottom' hide-tabs> </tableau-viz>
+
+
 
 ## The PolarVis Polarisation Dashboard
 
