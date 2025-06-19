@@ -41,6 +41,7 @@ Whether you're a researcher, communicator, or simply curious about online debate
     </tableau-viz>
 </div>
 
+The dashboard was developped and designed by Hana Dubovska. 
 
 
 ## The PolarVis Polarisation Dashboard
@@ -51,7 +52,7 @@ This interactive dashboard visualizes how images circulated on social media in t
 
 At the heart of the dashboard is a network graph showing how identical images were shared across social media accounts. By mapping these image-sharing patterns, the dashboard helps uncover both polarisation—when images circulate only within partisan communities—and cross-cutting reach, where the same visuals are shared across political divides.
 
-Developed by [Tobias Raidl (TU Wien)](https://www.linkedin.com/in/tobias-raidl/) in collaboration with the PolarVis team at the University of Vienna, the tool was designed to support exploratory analysis of visual content and its role in shaping online debate.
+Developed by [Tobias Raidl](https://www.linkedin.com/in/tobias-raidl/) in collaboration with the PolarVis team at the University of Vienna, the tool was designed to support exploratory analysis of visual content and its role in shaping online debate.
 
 Users can:
 
