@@ -16,9 +16,9 @@ As part of the PolarVis project, we created three interactive dashboards that of
 
 Whether you're a researcher, communicator, or simply curious about online debates, these tools invite you to explore patterns of visual messaging, emotional responses, and evolving communication strategies. Developed through a collaborative, co-design process, they are meant to support reflection, comparison, and more informed engagement in a changing media landscape.
 
-    Social Media Dashboard – Explore overall patterns in visual climate communication.
+    Social Media Dashboard – Explore overall patterns in visual climate communication across countries.
 
-    Polarisation Dashboard – Compare emotional dynamics and visual content across countries.
+    Polarisation Dashboard – Compare political dynamics and sharing patterns of visual content.
 
     Workshop Dashboard – Dive into examples and findings from our local co-design workshop.
 
