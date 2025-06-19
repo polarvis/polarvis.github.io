@@ -10,6 +10,8 @@ toc: true
 
 ## Explore Our Dashboards
 
+<br />
+
 How do images shape public debate—and how can we better understand their persuasive power online?
 
 As part of the PolarVis project, we created three interactive dashboards that offer different windows into the visual politics of climate communication on social media. Drawing on research across Europe, the dashboards allow users to explore how images are used to engage, persuade, and polarise in digital spaces.
@@ -23,10 +25,13 @@ Whether you're a researcher, communicator, or simply curious about online debate
     Workshop Dashboard – Dive into examples and findings from our local co-design workshop.
 
 
+<br />
+<br />
 
 
 ## The PolarVis Social Media Dashboard
 
+<br />
 
 <div class="tableau-responsive-container">
     <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
@@ -42,6 +47,9 @@ Whether you're a researcher, communicator, or simply curious about online debate
 </div>
 
 The dashboard was developped and designed by Hana Dubovska. 
+
+<br />
+<br />
 
 
 ## The PolarVis Polarisation Dashboard
@@ -76,8 +84,11 @@ Together, these features shed light on how climate visuals both bridge and divid
 
 
 <br />
+<br />
 
 ## The PolarVis Workshop Dashboard
+
+<br />
 
 The Workshop Dashboard was developed as a hands-on tool to support collaboration between researchers and climate communicators. Built on co-design principles, it is used in local workshops with stakeholders working to engage citizens around climate issues.
 
@@ -85,5 +96,10 @@ The goal was to create a space for shared reflection: while communicators often 
 
 By drawing on workshop participants’ contextual knowledge and feedback, the dashboard evolved into a tool that helps uncover patterns, spark discussion, and support more effective and reflective communication practices.
 
+<br />
+
 
 <img align="center" width="1100" src="/assets/images/dashboard3.png" />
+
+<br />
+<br />
