@@ -6,9 +6,10 @@ header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
 toc: F
+pagination: false
 ---
 
-
+### The PolarVis Social Media Dashboard
 
 <div class='tableauPlaceholder' id='viz1750088466954' style='position: relative;'>
   <noscript>
