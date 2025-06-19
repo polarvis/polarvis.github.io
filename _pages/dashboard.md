@@ -10,12 +10,12 @@ toc: false
 
 ## The PolarVis Social Media Dashboard
 
-[Social Media Dashboard](/dashboard/socialmedia/)
+[Social Media Dashboard](/dashboards/socialmedia/)
 
 ### The PolarVis Polarisation Dashboard
 
-[Polarisation Dashboard](/dashboard/polarisation/)
+[Polarisation Dashboard](/dashboards/polarisation/)
 
 ## The PolarVis Workshop Dashboard
 
-[Workshop Dashboard](/dashboard/workshop/)
+[Workshop Dashboard](/dashboards/workshop/)
