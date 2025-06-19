@@ -8,17 +8,14 @@ header:
 toc: F
 ---
 
-## The PolarVis Social Media Dashboard 
+## The PolarVis Social Media Dashboard
 
-([Social Media Dashboard](/socialmedia/))
+[Social Media Dashboard](/socialmedia/)
 
-### The PolarVis Polarisation Dashboard 
+### The PolarVis Polarisation Dashboard
 
-[Polarisation Dashboard]( LINK )
+[Polarisation Dashboard](/polarisation/)
 
+## The PolarVis Workshop Dashboard
 
-## The PolarVis Workshop Dashboard 
-
-[Workshop Dashboard]( LINK )
-
-
+[Workshop Dashboard](/workshop/)
