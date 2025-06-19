@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.4"
 toc: true
+excerpt: " "
 ---
 
 {% for publist in site.data.publications %}
