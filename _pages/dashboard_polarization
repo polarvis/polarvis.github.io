@@ -6,12 +6,10 @@ header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
 toc: false
-pagination: false
+previous_next: false
+excerpt: "This interactive dashboard visualizes and analyzes social media dynamics related to climate change messages featuring visual content, published in the lead-up to the 2021 German federal election. It explores a dataset of approximately 84,000 social media posts from Instagram, Facebook, and Twitter, each containing at least one image."
 ---
 
-## The PolarVis Polarisation Dashboard
-
-This interactive dashboard visualizes and analyzes social media dynamics related to climate change messages featuring visual content, published in the lead-up to the 2021 German federal election. It explores a dataset of approximately 84,000 social media posts from Instagram, Facebook, and Twitter, each containing at least one image.
 
 The dashboard was developed by [Tobias Raidl](https://www.linkedin.com/in/tobias-raidl/) as part of the Interdisciplinary Project in Data Science (TU Wien), during which he collaborated with the PolarVis team at the University of Vienna to interpret the key analytical goals of the PolarVis project and create a dashboard that allows users to explore and analyze the data in the most effective way for the intended purposes.
 
