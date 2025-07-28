@@ -17,3 +17,5 @@ The PolarVis podcast series considers how various actors use visual narratives t
 ### Episode 2
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3mi8fWsFo9SX0m9Mp9IHel?utm_source=generator" width="75%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+### Episode 3
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5MGhYLERterimeIGSolyCC?utm_source=generator" width="75%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
