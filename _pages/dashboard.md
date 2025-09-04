@@ -43,7 +43,7 @@ The dashboard was developped and designed by Hana Dubovska.
 ---
 <br />
 
-## The PolarVis Polarisation Dashboard
+# The PolarVis Polarisation Dashboard
 
 <div class="powerbi-responsive-container">
     <iframe 
@@ -72,7 +72,7 @@ By drawing on workshop participants’ contextual knowledge and feedback, the da
 <br />
 
 
-<img align="center" width="1100" src="/assets/images/dashboard3.png" />
+<img align="center" width="900" src="/assets/images/dashboard3.png" />
 
 <br />
 <br />
