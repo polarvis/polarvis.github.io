@@ -8,7 +8,7 @@ header:
 toc: true
 ---
 
-## Explore Our Dashboards
+# Explore Our Dashboards
 
 
 How do images shape public debate—and how can we better understand their persuasive power online?
@@ -18,10 +18,10 @@ As part of the PolarVis project, we created three interactive dashboards that of
 Whether you're a researcher, communicator, or simply curious about online debates, these tools invite you to explore patterns of visual messaging, emotional responses, and evolving communication strategies. Developed through a collaborative, co-design process, they are meant to support reflection, comparison, and more informed engagement in a changing media landscape.
 
 <br />
+---
 <br />
 
-
-## The PolarVis Social Media Dashboard
+# The PolarVis Social Media Dashboard
 
 
 <div class="tableau-responsive-container">
@@ -40,6 +40,7 @@ Whether you're a researcher, communicator, or simply curious about online debate
 The dashboard was developped and designed by Hana Dubovska. 
 
 <br />
+---
 <br />
 
 ## The PolarVis Polarisation Dashboard
@@ -56,39 +57,10 @@ The dashboard was developped and designed by Hana Dubovska.
 </div>
 
 <br />
+---
 <br />
 
-This interactive dashboard visualizes how images circulated on social media in the weeks leading up to the 2021 German federal election. Based on a dataset of over 84,000 posts from Instagram, Facebook, and Twitter, it offers insights into the emotional and visual dynamics of online climate communication.
-
-At the heart of the dashboard is a network graph showing how identical images were shared across social media accounts. By mapping these image-sharing patterns, the dashboard helps uncover both polarisation—when images circulate only within partisan communities—and cross-cutting reach, where the same visuals are shared across political divides.
-
-Developed by [Tobias Raidl](https://www.linkedin.com/in/tobias-raidl/) in collaboration with the PolarVis team at the University of Vienna, the tool was designed to support exploratory analysis of visual content and its role in shaping online debate.
-
-Users can:
-
-    Explore how images connect political communities
-
-    Click on nodes to see account-level details
-
-    View shared images and emotional reactions
-
-    Identify patterns of polarisation and overlap in visual messaging
-
-Together, these features shed light on how climate visuals both bridge and divide online publics. Here are some previous of the dashboard (full version coming soon). 
-
-<img align="center" width="1100" src="/assets/images/polarisationdashboard.jpg" />
-
-
-<img align="center" width="1100" src="/assets/images/polarisationdashboard2.jpg" />
-
-
-<img align="center" width="1100" src="/assets/images/polarisationdashboard3.jpg" />
-
-
-<br />
-<br />
-
-## The PolarVis Workshop Dashboard
+# The PolarVis Workshop Dashboard
 
 
 The Workshop Dashboard was developed as a hands-on tool to support collaboration between researchers and climate communicators. Built on co-design principles, it is used in local workshops with stakeholders working to engage citizens around climate issues.
