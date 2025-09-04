@@ -17,13 +17,6 @@ As part of the PolarVis project, we created three interactive dashboards that of
 
 Whether you're a researcher, communicator, or simply curious about online debates, these tools invite you to explore patterns of visual messaging, emotional responses, and evolving communication strategies. Developed through a collaborative, co-design process, they are meant to support reflection, comparison, and more informed engagement in a changing media landscape.
 
-    Social Media Dashboard – Explore overall patterns in visual climate communication across countries.
-
-    Polarisation Dashboard – Compare political dynamics and sharing patterns of visual content.
-
-    Workshop Dashboard – Dive into examples and findings from our local co-design workshop.
-
-
 <br />
 <br />
 
@@ -52,8 +45,33 @@ The dashboard was developped and designed by Hana Dubovska.
 ## The PolarVis Polarisation Dashboard
 
 
-<iframe title=“polarvis-de2021” width=“1024" height=“1060” src=“https://app.powerbi.com/view?r=eyJrIjoiNjNhNjczMTUtMGRiMy00NmVjLWE5MDYtOGVjZWE0ZjA5ZWRhIiwidCI6IjRhODU1ZjcyLTUwODAtNDFkMy04MTIwLTRlZmQyMTUzNmI2YiIsImMiOjh9&pageName=979bfdb0c1472077e950” frameborder=“0” allowFullScreen=“true”></iframe>
-
+    <div class="dashboard-container">
+        <div class="dashboard-header">
+            Power BI Dashboard (Responsive)
+        </div>
+        <div class="dashboard-content">
+            <div class="powerbi-responsive-container">
+                <div class="loading-message">Loading Power BI Dashboard...</div>
+                <iframe 
+                    title="polarvis-de2021-responsive" 
+                    src="https://app.powerbi.com/view?r=eyJrIjoiNjNhNjczMTUtMGRiMy00NmVjLWE5MDYtOGVjZWE0ZjA5ZWRhIiwidCI6IjRhODU1ZjcyLTUwODAtNDFkMy04MTIwLTRlZmQyMTUzNmI2YiIsImMiOjh9&pageName=979bfdb0c1472077e950" 
+                    allowfullscreen="true"
+                    sandbox="allow-scripts allow-same-origin allow-popups allow-forms"
+                    onload="hideLoadingMessage(this)"
+                    onerror="showErrorMessage(this)">
+                </iframe>
+            </div>
+            <div class="error-message" id="powerbi-error-responsive">
+                Unable to load Power BI dashboard. This might be due to:
+                <ul>
+                    <li>Network connectivity issues</li>
+                    <li>Power BI service restrictions</li>
+                    <li>Browser security policies</li>
+                </ul>
+                Try refreshing the page or accessing the dashboard directly.
+            </div>
+        </div>
+    </div>
 
 This interactive dashboard visualizes how images circulated on social media in the weeks leading up to the 2021 German federal election. Based on a dataset of over 84,000 posts from Instagram, Facebook, and Twitter, it offers insights into the emotional and visual dynamics of online climate communication.
 
