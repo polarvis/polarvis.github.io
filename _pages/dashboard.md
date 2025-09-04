@@ -49,8 +49,10 @@ The dashboard was developped and designed by Hana Dubovska.
 <br />
 <br />
 
-
 ## The PolarVis Polarisation Dashboard
+
+
+<iframe title=“polarvis-de2021” width=“1024" height=“1060” src=“https://app.powerbi.com/view?r=eyJrIjoiNjNhNjczMTUtMGRiMy00NmVjLWE5MDYtOGVjZWE0ZjA5ZWRhIiwidCI6IjRhODU1ZjcyLTUwODAtNDFkMy04MTIwLTRlZmQyMTUzNmI2YiIsImMiOjh9&pageName=979bfdb0c1472077e950” frameborder=“0” allowFullScreen=“true”></iframe>
 
 
 This interactive dashboard visualizes how images circulated on social media in the weeks leading up to the 2021 German federal election. Based on a dataset of over 84,000 posts from Instagram, Facebook, and Twitter, it offers insights into the emotional and visual dynamics of online climate communication.
