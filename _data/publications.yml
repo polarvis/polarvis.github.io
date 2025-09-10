@@ -12,6 +12,7 @@
       number: 
       year: 2025
       doi:
+      url: 
       fulltext: 
       git:
     - title: "Visual digital intermediaries and global climate communication: Is climate change still a distant problem on YouTube?"
@@ -23,6 +24,7 @@
       number: 
       year: 2025
       doi: 
+      url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318338"
       fulltext: 
       git:
 
@@ -39,6 +41,7 @@
       number: 
       year: 2024
       doi: 
+      url: "https://www.tandfonline.com/doi/full/10.1080/17524032.2024.2420787"
       fulltext: 
       git: 
     - title: "Which Reveals Ideology Better? Comparing Self-Presentation and Public Rhetoric in the Facebook Climate Debate via Embeddings Analysis"
@@ -47,6 +50,7 @@
       conference: "Aiello L. M., Chakraborty, T., and Gaito, S. The 16th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024). Lecture Notes in Computer Science, vol 15213. Springer, Cham. Awarded the Best Paper of the PhD Forum track."
       year: 2024
       doi:
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-78548-1_14"
       fulltext:
       git:
     - title: "Images of Nature in Online Climate Activism in Germany and Argentina: Science, Affect and Non-Human ‘Everybodies’"
@@ -58,13 +62,15 @@
       number: 3-4
       year: 2024
       doi: 10.20446/JEP-2414-3197-40-1-33
+      url: "https://doi.org/10.20446/JEP-2414-3197-40-1-33"
       fulltext: 
-      git: https://doi.org/10.20446/JEP-2414-3197-40-1-33
+      git: 
     - title: "Measuring the Sociolinguistic Patterns of Climate Debate Polarization in the Facebook Context"
       type: "in-proceedings"
       author: Luigi Arminio and Luca Rossi
       conference: "Aiello L. M., Chakraborty, T., and Gaito, S. The 16th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024). Lecture Notes in Computer Science, vol 15213. Springer, Cham."
       year: 2024 
       doi:
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-85240-4_25"
       fulltext:
       git:
