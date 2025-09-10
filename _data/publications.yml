@@ -1,17 +1,46 @@
 # Publications
 
+- year: 2025
+  publications:
+
+    - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions in the Digital Sphere"
+      type: "article"
+      author: Katrin Uba, Alexandra Segerberg and Matteo Magnani
+      journal: American Behavioral Scientist.
+      publisher: 
+      volume: 
+      number: 
+      year: 2025
+      doi: 10.1177/00027642251377868 
+      fulltext: 
+      git:
+    - title: "Visual digital intermediaries and global climate communication: Is climate change still a distant problem on YouTube?"
+      type: "article"
+      author: Alexandra Segerberg and Matteo Magnani
+      journal: PLoS ONE 20(4): e0318338.
+      publisher: 
+      volume: 
+      number: 
+      year: 2025
+      doi: https://doi.org/10.1371/journal.pone.0318338
+      fulltext: 
+      git:
+      
+      
+
+      
 - year: 2024
   publications:
 
     - title: "Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change"
       type: "article"
       author: Luca Rossi, Alexandra Segerberg, Luigi Arminio and Matteo Magnani
-      journal: Environmental Communication, 1–19. 
+      journal: Environmental Communication, 19(3), 449–467.
       publisher: 
       volume: 
       number: 
       year: 2024
-      doi: 
+      doi: https://doi.org/10.1080/17524032.2024.2420787
       fulltext: 
       git: 
     - title: "Which Reveals Ideology Better? Comparing Self-Presentation and Public Rhetoric in the Facebook Climate Debate via Embeddings Analysis"
