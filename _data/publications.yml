@@ -1,5 +1,22 @@
 # Publications
 
+- year: 2026
+  publications:
+  
+    - title: "Transnational Networks: A Case Study of Climate Activism and Counter-Activism on Facebook"
+      type: "chapter"  # or "book-chapter" or "incollection"
+      author: Luca Rossi and Nicola Rightetti
+      book: "The Handbook of Social and Communication Networks"
+      editors: "Rossi L., Bastos M."  
+      publisher: "Edward Edgar Publishing"
+      year: 2026
+      pages: 
+      doi:
+      url: 
+      fulltext: 
+      git:
+
+
 - year: 2025
   publications:
 
@@ -27,7 +44,18 @@
       url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318338"
       fulltext: 
       git:
-
+    - title: "Leveraging VLLMs for Visual Clustering: Image-to-text mapping shows increased semantic capabilities and interpretability"
+      type: "article"
+      author: Luigi Arminio, Matías Piqueras, Matteo Magnani, Luca Rossi and Alexandra Segerberg
+      journal: Social Science Computer Review
+      publisher: 
+      volume: 
+      number: 
+      year: 2025
+      doi:
+      url: 
+      fulltext: 
+      git:
       
 - year: 2024
   publications:
