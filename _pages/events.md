@@ -16,9 +16,9 @@ toc: false
 Date: 19 September 2025
 Place: Porto, Portugal
 
-**From memes to movements** — Matteo Magnani (Uppsala University), PolarVis researcher, openes [AIDEM 2025](https://aidem2025.isti.cnr.it/) with a keynote speech on how images shape political conversation online, and how computer vision can help decode their impact on democratic life. AIDEM, the International Workshop on Artificial Intelligence, Data Analytics and Democracy, gatheres researchers and practitioners to discuss how new technologies are transforming society and public debate.  
+**From images to insights** — Matteo Magnani (Uppsala University), PolarVis researcher, openes [AIDEM 2025](https://aidem2025.isti.cnr.it/) with a keynote speech on how images shape political conversation online, and how computer vision can help decode their impact on democratic life. AIDEM, the International Workshop on Artificial Intelligence, Data Analytics and Democracy, gatheres researchers and practitioners to discuss how new technologies are transforming society and public debate. 
 
-In the keynote, Matteo elaborates how visual content, ranging from viral memes to images of protests, plays a central role in online political discourse. He highlighted how contemporary computer vision methods can identify topics, narratives, and clusters in visual data, while also discussing potential misuses and the importance of ensuring these tools support rather than compromise communication research. 
+In the keynote, Matteo elaborates how visual content, ranging from viral memes to images of protests, plays a central role in online political discourse. He highlights how contemporary computer vision methods can identify topics, narratives, and clusters in visual data, while also discussing potential misuses and the importance of ensuring these tools support rather than compromise communication research. 
 
 <br />
 
