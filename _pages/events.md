@@ -9,6 +9,7 @@ toc: false
 ---
 
 
+<img align="right" width="405" src="/assets/images/aidem2025.jpg" />
 
 ### Keynote speech: PolarVis researcher Matteo Magnani's gives keynote at AIDEN 2025 
 
@@ -18,7 +19,6 @@ Place: Porto, Portugal
 
 **From memes to movements** — Matteo Magnani (Uppsala University), PolarVis researcher, openes [AIDEM 2025](https://aidem2025.isti.cnr.it/) with a keynote speech on how images shape political conversation online, and how computer vision can help decode their impact on democratic life. AIDEM, the International Workshop on Artificial Intelligence, Data Analytics and Democracy, gatheres researchers and practitioners to discuss how new technologies are transforming society and public debate.  
 
-<img align="right" width="405" src="/assets/images/aidem2025.jpg" />
 
 
 <img align="right" width="405" src="/assets/images/workshop2.jpg" />
