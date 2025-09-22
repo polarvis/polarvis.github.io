@@ -11,7 +11,7 @@ toc: false
 
 <img align="right" width="405" src="/assets/images/aidem2025.jpg" />
 
-### Keynote speech: PolarVis researcher Matteo Magnani gives keynote at AIDEN 2025 
+### Keynote speech: PolarVis researcher Matteo Magnani gives keynote at AIDEM 2025 
 
 Date: 19 September 2025, Place: Porto, Portugal
 
@@ -38,6 +38,18 @@ The PolarVis project invites activists, students, practitioners, and scholars to
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <hr/> <!-- Adds a horizontal line -->
 
@@ -47,24 +59,12 @@ The PolarVis project invites activists, students, practitioners, and scholars to
 
 ### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
 
-Date: 11 March 2024, Place:  Research Centre for Social Sciences, HUN-REN, Hungary 
+Date: 11 March 2024, Place: Research Centre for Social Sciences, HUN-REN, Hungary 
 
 The **first PolarVis workshop** takes place at the Research Centre for Social Sciences at HUN-REN. Scholars, journalists and practitioners gather to discuss PolarVis findings about visual climate communication. Together, they explore and contribute to the [interactive social media dashboard](https://polarvis.github.io/dashboard/) that is developed as a result of the PolarVis research project.
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 
 
 <hr/> <!-- Adds a horizontal line -->
