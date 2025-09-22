@@ -11,29 +11,14 @@ toc: false
 
 <img align="right" width="405" src="/assets/images/aidem2025.jpg" />
 
-### Keynote speech: PolarVis researcher Matteo Magnani's gives keynote at AIDEN 2025 
+### Keynote speech: PolarVis researcher Matteo Magnani gives keynote at AIDEN 2025 
 
 Date: 19 September 2025
-
 Place: Porto, Portugal
 
 **From memes to movements** — Matteo Magnani (Uppsala University), PolarVis researcher, openes [AIDEM 2025](https://aidem2025.isti.cnr.it/) with a keynote speech on how images shape political conversation online, and how computer vision can help decode their impact on democratic life. AIDEM, the International Workshop on Artificial Intelligence, Data Analytics and Democracy, gatheres researchers and practitioners to discuss how new technologies are transforming society and public debate.  
 
-<br />
-
-<hr/> <!-- Adds a horizontal line -->
-
-
-<img align="right" width="405" src="/assets/images/workshop2.jpg" />
-
-### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
-
-Date: 11 March 2024 
-
-Place:  Research Centre for Social Sciences, HUN-REN, Hungary 
-
-Scholars, journalists and practitioners gathered at the Research Centre for Social Sciences to discuss PolarVis findings about visual climate communication, and explored an interactive social media dashboard being produced as a result of the PolarVis research project.
-
+In the keynote, Matteo elaborates how visual content, ranging from viral memes to images of protests, plays a central role in online political discourse. He highlighted how contemporary computer vision methods can identify topics, narratives, and clusters in visual data, while also discussing potential misuses and the importance of ensuring these tools support rather than compromise communication research. 
 
 <br />
 
@@ -45,10 +30,23 @@ Scholars, journalists and practitioners gathered at the Research Centre for Soci
 
 
 Date: 10-11 October 2024
-
 Place: University of Copenhagen, CSS Campus, CoMMonS Research Centre
 
-This workshop explored the role of visual content in shaping digital politics on climate change. Scholars, activists, students, and practitioners gathered at University of Copenhagen as part of the PolarVis worskhop to discuss how visuals influence public perception and engagement.
+The PolarVis project invites activists, students, practitioners, and scholars to gather at the University of Copenhagen to discuss how visuals influence public perception and engagement. The overarching aim of the workshop is to explore the role of visual content in shaping digital politics on climate change, and to share the experiences and challanges the workshop participants have been facing. 
+
+
+<br />
+
+<hr/> <!-- Adds a horizontal line -->
+
+<img align="right" width="405" src="/assets/images/workshop2.jpg" />
+
+### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
+
+Date: 11 March 2024 
+Place:  Research Centre for Social Sciences, HUN-REN, Hungary 
+
+The first PolarVis workshop takes place at the Research Centre for Social Sciences at HUN-REN. Scholars, journalists and practitioners gather to discuss PolarVis findings about visual climate communication. Together, they explore and contribute to the [interactive social media dashboard](https://polarvis.github.io/dashboard/) that is developed as a result of the PolarVis research project.
 
 <br />
 <br />
@@ -72,10 +70,9 @@ This workshop explored the role of visual content in shaping digital politics on
 ### Research Talk:  How can AI help us understand our society? 
 
 Date: 04 December 2024 
-
 Place: Uppsala University, Sweden
 
-In this talk, Professor Matteo Magnani reflects on how Large Language Models (LLMs) can be used to analyse socially and politically relevant (visual) data and gives insights into learnings from the PolarVos research project.
+In this talk, Professor Matteo Magnani reflects on how Large Language Models (LLMs) can be used to analyse socially and politically relevant (visual) data and gives insights into learnings from the PolarVos research project. The talk can now be watched online: 
 
 <br />
 
