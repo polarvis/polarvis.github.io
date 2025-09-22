@@ -19,9 +19,12 @@ Date: 19 September 2025, Place: Porto, Portugal
 
 In the keynote, Matteo elaborates how visual content, ranging from viral memes to images of protests, plays a central role in online political discourse. He highlights how contemporary computer vision methods can identify topics, narratives, and clusters in visual data, while also discussing potential misuses and the importance of ensuring these tools support rather than compromise communication research. 
 
+
+<br />
 <br />
 
 <hr/> <!-- Adds a horizontal line -->
+
 
 <img align="right" width="405" src="/assets/images/workshop1.PNG" />
 
@@ -32,9 +35,13 @@ Date: 10-11 October 2024, Place: University of Copenhagen, CSS Campus, CoMMonS R
 The PolarVis project invites activists, students, practitioners, and scholars to gather at the University of Copenhagen to discuss how visuals influence public perception and engagement. The  aim of the **second PolarVis workshop** is to explore the role of visual content in shaping digital politics on climate change, and to share the experiences and challanges the workshop participants have been facing. 
 
 
+
+<br />
 <br />
 
 <hr/> <!-- Adds a horizontal line -->
+
+
 
 <img align="right" width="405" src="/assets/images/workshop2.jpg" />
 
