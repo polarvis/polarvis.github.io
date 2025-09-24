@@ -18,7 +18,7 @@ PolarVis aims to understand how, why and with what consequences visual content b
  
 # Research Areas 
 
-<img align="right" width="470" src="/assets/images/protestbears.png" />
+<img align="right" width="450" src="/assets/images/protestbears.png" />
 
 #### PRODUCTION
 
@@ -53,7 +53,7 @@ Selected activities:
 
 #### PUBLICS
 
-<img align="right" width="470" src="/assets/images/network.png" />
+<img align="right" width="450" src="/assets/images/network.png" />
 
 PolarVis develops methodologies to quantify polarisation in social networks, and studies dynamics of emotion and affect around visual content in online climate communication. The project addresses the following types of questions: What kind of public (re)action is observable around the visual content that movements and countermovements share online? How is this connected with the emergence of affective publics and antagonising counterpublics? 
 
@@ -62,7 +62,7 @@ Selected activities:
 - Conference Presentation: P. Tolochko, N. Righetti, and A. Waldherr. ‘Measuring Political Polarisation in Online Social Movement Networks: A Graph Embedding Approach.’ European Consortium for Political Research General Conference, 4-8 September 2023, Prague, Czech Republic.
 - Conference Proceeding: L. Arminio and L. Rossi (2024). Measuring the Sociolinguistic Patterns of Climate Debate Polarization in the Facebook Context. In: Aiello L. M., Chakraborty, T., and Gaito, S. The 16th International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2024). Lecture Notes in Computer Science, vol 15213. Springer, Cham.
 - Conference Presentation: P. Tolochko, N., Righetti, and A. Waldherr. ‘Divisive imagery: Affective polarisation analysis in climate activism visuals.’ ECREA 2024 Communication & social (dis)order. 10th European Communication Conference. 24 – 27 September 2024, Ljubljana, Slovenia.
-- Publication: Righetti, N., Tolochko, P., Kulichkina, A., Kakavand, A., Nakamura, D., Li, Y., Pressmann, P., Geise, S., & A. Waldherr. (forthcoming). A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections.
+- Journal article: Righetti, N., Tolochko, P., Kulichkina, A., Kakavand, A., Nakamura, D., Li, Y., Pressmann, P., Geise, S., & A. Waldherr. (forthcoming). A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections.
 
 Summary of findings: 
 
