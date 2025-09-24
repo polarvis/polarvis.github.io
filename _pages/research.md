@@ -18,7 +18,7 @@ PolarVis aims to understand how, why and with what consequences visual content b
  
 # Research Areas 
 
-<img align="right" width="450" src="/assets/images/protestbears.png" />
+<img align="right" width="470" src="/assets/images/protestbears.png" />
 
 #### PRODUCTION
 
@@ -53,7 +53,7 @@ Selected activities:
 
 #### PUBLICS
 
-<img align="right" width="440" src="/assets/images/network.png" />
+<img align="right" width="470" src="/assets/images/network.png" />
 
 PolarVis develops methodologies to quantify polarisation in social networks, and studies dynamics of emotion and affect around visual content in online climate communication. The project addresses the following types of questions: What kind of public (re)action is observable around the visual content that movements and countermovements share online? How is this connected with the emergence of affective publics and antagonising counterpublics? 
 
@@ -64,7 +64,7 @@ Selected activities:
 - Conference Presentation: P. Tolochko, N., Righetti, and A. Waldherr. ‘Divisive imagery: Affective polarisation analysis in climate activism visuals.’ ECREA 2024 Communication & social (dis)order. 10th European Communication Conference. 24 – 27 September 2024, Ljubljana, Slovenia.
 - Publication: Righetti, N., Tolochko, P., Kulichkina, A., Kakavand, A., Nakamura, D., Li, Y., Pressmann, P., Geise, S., & A. Waldherr. (forthcoming). A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections.
 
-Summary of research findings: 
+Summary of findings: 
 
 Our research shows that emotional reactions to visual content on environmental issues shared on social media differ significantly between political communities. For example, anger and outrage fuel sharing among the populist right. In contrast, these emotions are less common in the green community, where they actually discourage sharing. These findings challenge interpretations of technological determinism, which suggest, for example, that algorithms amplify outrageous content and inevitably create a polarized, conflictual social media environment. Instead, they underscore the role of actors and counteractors, whose choices and traits strongly shape both the emotions and the content that circulate online. From this more nuanced perspective, publics and counter-publics emerge through the interplay of communication strategies, cultural and ideological differences, and algorithmic influences. Together, these forces form a system in which emotions arise, spread, and ultimately shape how climate issues are represented and addressed. These insights relate both to the qustion "how publics react to and act on the content" (Publics), and "how the content propagates online (Propagation)”. For a longer discussion see the article by Righetti et al. (forthcoming).
 
@@ -83,7 +83,7 @@ Selected activities:
 - [Keynote](https://research.qut.edu.au/dmrc/wp-content/uploads/sites/5/2024/02/P3-Postconference-Programme.pdf): A. Waldherr, P. Tolochko, and N. Righetti. (2024). Exploring Structural and Affective Polarization in Climate Activism. P³: Power, Propaganda, Polarisation. ICA 2024 Postconference 26-27 June 2024, Digital Media Research Centre Queensland University of Technology Brisbane, Australia.
 - Conference Presentation: K. Uba, A. Segerberg and M. Magnani. Climate movements and their countermobilisation in the digital world. European Consortium for Political Research Joint Sessions 25-28 April 2023, Toulouse, France.
 
-Summary of research findings: 
+Summary of findings: 
 
 Visual content leverages emotional reactions to spread across online networks. Both positive and negative empotions are leverages but negativity plays a big role into the communicative strategies of anti-climate actors. Nevertheless, visual content remains mostly confined within the existing network of digital spaces characterized by like-minded attitudes towards the climate issue. While some narratives and visual reportoires are unique to each side, key visual issue – such as the role of energy transition, alternative mobility and climate change, are conststed between the two sides.
 
