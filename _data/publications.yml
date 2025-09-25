@@ -20,14 +20,26 @@
 - year: 2025
   publications:
 
-    - title: "A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections."
+    - title: "Mapping and Measuring Polarization: An Embedding-Based Approach for Social Networks."
       type: "article"
-      author: Righetti, N., Tolochko, P., Kulichkina, A., Kakavand, A., Nakamura, D., Li, Y., Pressmann, P., Geise, S., & A. Waldherr.
+      author: Petro Tolochko, Nicola Righetti, & Annie Waldherr
       journal: 
       publisher: 
       volume: 
       number: 
       year: forthcoming
+      doi:
+      url: 
+      fulltext: 
+      git:
+    - title: "A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections."
+      type: "article"
+      author: Nicola Righetti, Petro Tolochko, Aytalina Kulichkina, Azade Esther Kakavand, Daisuke Nakamura, Yuru Li, Paul Pressmann, Stephanie Geise, and Annie Waldherr
+      journal: 
+      publisher: 
+      volume: 
+      number: 
+      year: work in progress
       doi:
       url: 
       fulltext: 
