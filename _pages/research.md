@@ -85,7 +85,7 @@ Selected activities:
 
 Summary of findings: 
 
-Visual content leverages emotional reactions to spread across online networks. Both positive and negative empotions are leverages but negativity plays a big role into the communicative strategies of anti-climate actors. Nevertheless, visual content remains mostly confined within the existing network of digital spaces characterized by like-minded attitudes towards the climate issue. While some narratives and visual reportoires are unique to each side, key visual issue – such as the role of energy transition, alternative mobility and climate change, are conststed between the two sides.
+Visual content leverages emotional reactions to spread across online networks. Both positive and negative emotions are leveraged, but negativity plays a particularly big role in the communicative strategies of anti-climate actors. Nevertheless, visual content remains mostly confined within digital spaces with ideologically and environmentally like-minded networks. While some narratives and visual reportories are unique to each side, key visual issues—such as the role of energy transition, alternative mobility, and climate change—are contested by both.
 
 <br />
 
