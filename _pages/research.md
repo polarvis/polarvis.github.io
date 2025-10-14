@@ -19,7 +19,7 @@ PolarVis aims to understand how, why and with what consequences visual content b
 
 ## PRODUCTION
 
-<img align="right" width="350" src="/assets/images/protestbears.png" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" width="400" src="/assets/images/protestbears.png" style="margin-left: 20px; margin-bottom: 20px;" />
 
 PolarVis uses interviews to understand the visual communication strategies of climate movement actors and stakeholders and address the following types of questions: How do (counter)movements use visual communication on digital platforms as part of their communication repertoire to mobilise, engage, and generate narratives about themselves and others?
 
@@ -44,9 +44,7 @@ PolarVis conducts qualitative and computational analyses of the visual narrative
 
 ### Summary of Findings
 
-The movement uses rationalist, scientistic content in popularizing or educative styled visual narratives to convince European audiences in Northern Europe. In Italy and Argentina, performative styled figurative and dramatic visual storytelling is more dominant (Doerr & Langa, 2024).
-
-The counter-movement's visual content uses exaggerated, sometimes hate-based gendered visual stereotypes to discredit climate advocates. Anti-elite images are combined with the positive self-image of the rational common man, and the strong man who does not believe the so-called lies of climate scientists (Doerr & Langa, 2025).
+The movement uses rationalist, scientistic content in popularizing or educative styled visual narratives to convince European audiences in Northern Europe. In Italy and Argentina, performative styled figurative and dramatic visual storytelling is more dominant (Doerr & Langa, 2024). The counter-movement's visual content uses exaggerated, sometimes hate-based gendered visual stereotypes to discredit climate advocates. Anti-elite images are combined with the positive self-image of the rational common man, and the strong man who does not believe the so-called lies of climate scientists (Doerr & Langa, 2025).
 
 ### Selected Activities
 
@@ -62,7 +60,7 @@ The counter-movement's visual content uses exaggerated, sometimes hate-based gen
 
 ## PUBLICS
 
-<img align="right" width="480" src="/assets/images/network.png" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" width="400" src="/assets/images/network.png" style="margin-left: 20px; margin-bottom: 20px;" />
 
 PolarVis develops methodologies to quantify polarisation in social networks, and studies dynamics of emotion and affect around visual content in online climate communication. The project addresses the following types of questions: What kind of public (re)action is observable around the visual content that movements and countermovements share online? How is this connected with the emergence of affective publics and antagonising counterpublics?
 
