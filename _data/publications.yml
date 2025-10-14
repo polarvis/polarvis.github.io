@@ -84,6 +84,22 @@
 - year: 2024
   publications:
 
+
+
+
+
+    - title: "Global case studies on the far right’s politics of nature"
+      type: "chapter"  # or "book-chapter" or "incollection"
+      author: Dániel Oross
+      book: "Visualizing Far-Right Environments: Communication and the Politics of Nature. Global Studies of the Far Right Series."
+      editors: "Bernard Forchner"  
+      publisher: "Manchester: Manchester University Press"
+      year: 2026
+      pages: "283–284"
+      doi:
+      url: "https://doi.org/10.1080/0031322X.2025.2504835"
+      fulltext: 
+      git:
     - title: "Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change"
       type: "article"
       author: Luca Rossi, Alexandra Segerberg, Luigi Arminio and Matteo Magnani
