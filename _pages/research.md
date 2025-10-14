@@ -31,6 +31,10 @@ Selected actvities:
 - Conference Presentation: D. Oross, D. Mikecz, and D. Rákos ‘The visual communication of climate change in a shifting political environment,’ Hungarian Political Science Association, 16-17 May 2024, Pécs, Hungary.
 - Conference Presentation: D. Mikecz, D. Oross and D. Rákos ‘Images as means of cohesion and polarization in Hungary.’ Alternative Futures and Popular Protest Conference, 17-18 June 2024, Manchester, UK.
 
+Summary of findings: 
+
+Beyond their thematic focus and current activities, which may include public protests, advocacy work, and citizen education, movements and countermovements produce and employ images in their visual communication that reflect their organizational capacity and their willingness to engage in conflict. Formalised decision-making processes exist regarding image production, nevertheless during political contestation they are flexible and open to change.
+
 <br />
 
  --------
