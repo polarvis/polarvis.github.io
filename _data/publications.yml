@@ -16,10 +16,21 @@
       fulltext: 
       git:
 
-
 - year: 2025
   publications:
-
+  
+    - title: "Images of Nature in Online Climate Activism in Germany and Argentina:Science, Affect and Non-Human‘Everybodies."
+      type: "article"
+      author: Nicole Doerr & María Florencia Langa
+      journal: Journal for Development Studies
+      publisher: 
+      volume: 39, 3-4
+      number: 33-64. 
+      year: 2024
+      doi:
+      url: 
+      fulltext: 
+      git:
     - title: "Mapping and Measuring Polarization: An Embedding-Based Approach for Social Networks."
       type: "article"
       author: Petro Tolochko, Nicola Righetti, & Annie Waldherr
