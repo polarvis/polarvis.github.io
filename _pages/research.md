@@ -50,6 +50,11 @@ Selected activities:
 - Conference Panel: ‘Transnational Contestation, Visual Digital Storytelling, Affect, Polarisation, and Trust’, European International Studies Association, 5-9 September 2023, Potsdam, Germany.
 - [Stakeholder Workshop on Polarization](https://polarvis.github.io/events/): Visual Storytelling and Affective Connections on Climate Justice, 10-11 October 2024, University of Copenhagen, Denmark.
 
+Summary of findings: 
+
+The movement uses rationalist, scienticist content in popularizing or educative styled visual narratives to convince European audiences in Northern Europe. In Italy, and in Argentinia performative styled figurative and dramatic visual storytelling is more dominant (Doerr and Langa 2024).
+
+The counter-movements visual content is using exaggerated, sometimes hate based gendered visual stereotypes to discredit climate advocates. Anti-elite images are combined with the positive self-image of the rational common man, and the strong man who does not believe the so called lies of climate scientists (Doerr and Langa 2025).
 <br />
 
  --------
