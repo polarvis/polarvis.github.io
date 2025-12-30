@@ -25,7 +25,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PolarVis project"
 description              : "Website of the PolarVis project."
-url                      : "https://uuinfolab.github.io"
+url                      : "https://polarvis.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "polarvis/polarvis.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -184,7 +184,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
