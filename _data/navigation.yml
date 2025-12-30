@@ -10,6 +10,8 @@ main:
     url: /team/
   - title: "Dashboards"
     url: /dashboard/
+  - title: "Guidelines"
+    url: /guidelines/  
   - title: "Podcast"
     url: /podcast/
   - title: "Events"
