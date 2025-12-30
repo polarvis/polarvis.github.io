@@ -9,8 +9,6 @@ toc: false
 ---
 
 <div class="page-content">
-    <h1>PolarVis Guidelines</h1>
-    <p>For navigating online visual communication about contentious issues in polarised times.</p>
     
     <div style="text-align: center; margin: 2em 0;">
         <a href="/assets/images/guidelines.pdf" download class="btn btn--primary" style="padding: 0.75em 1.5em; background: #007bff; color: white; text-decoration: none; border-radius: 4px; display: inline-block;">Download PDF</a>
