@@ -8,16 +8,19 @@ header:
 toc: false
 ---
 
-<div style="text-align: center; margin: 2em 0;">
-  <a href="/assets/images/guidelines.pdf" download class="btn btn--primary">Download PDF</a>
-</div>
-
-<div style="position: relative; width: 100%; height: 800px; margin: 2em 0;">
-  <iframe src="/assets/images/guidelines.pdf" 
-          width="100%" 
-          height="100%" 
-          style="border: 1px solid #ddd;">
-    <p>Your browser does not support PDFs. 
-       <a href="/assets/images/guidelines.pdf">Download the PDF</a>.</p>
-  </iframe>
+<div class="page-content">
+    <h1>PolarVis Guidelines</h1>
+    <p>For navigating online visual communication about contentious issues in polarised times.</p>
+    
+    <div style="text-align: center; margin: 2em 0;">
+        <a href="/assets/images/guidelines.pdf" download class="btn btn--primary" style="padding: 0.75em 1.5em; background: #007bff; color: white; text-decoration: none; border-radius: 4px; display: inline-block;">Download PDF</a>
+    </div>
+    
+    <div style="margin: 2em 0;">
+        <embed src="/assets/images/guidelines.pdf" type="application/pdf" width="100%" height="800px" />
+    </div>
+    
+    <div style="text-align: center; margin: 1em 0; padding: 1em; background: #f5f5f5; border-radius: 4px;">
+        <p>Having trouble viewing? <a href="/assets/images/guidelines.pdf" target="_blank">Open in new tab</a></p>
+    </div>
 </div>
