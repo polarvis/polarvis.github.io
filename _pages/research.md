@@ -92,5 +92,5 @@ Visual content leverages emotional reactions to spread across online networks. B
 - **Publication:** Rossi, L., Segerberg, A., Arminio, L., & Magnani, M. (2024). Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change. [*Environmental Communication*](https://doi.org/10.1080/17524032.2024.2420787), 1–19. [
 - **Publication:** Rossi, L., & Righetti, N. (2026). Transnational Networks: A Case Study of Climate Activism and Counter-Activism on Facebook. In M. Bastos (Eds.), *The Handbook of Social and Communication Networks*. Edward Elgar Publishing.
 - **Publication:** Segerberg A. & Magnani, M. (2025) Visual digital intermediaries and global climate communication: Is climate change still a distant problem on YouTube?[PLoS ONE](https://doi.org/10.1371/journal.pone.0318338), 20(4): e0318338.
-- **Special Issue:** Polarisation in Social Networks. [Network Science.](https://www.cambridge.org/core/journals/network-science/collections/polarisation-in-social-networks) Guest Editors L. Rossi & M. Magnani.
+- **Special Issue:** (2025) Polarisation in Social Networks. [Network Science.](https://www.cambridge.org/core/journals/network-science/collections/polarisation-in-social-networks) Guest Editors L. Rossi & M. Magnani.
 
