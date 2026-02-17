@@ -9,23 +9,6 @@ toc: false
 ---
 
 
-<img align="right" width="405" src="/assets/images/aidem2025.jpg" />
-
-### Keynote speech: PolarVis researcher Matteo Magnani gives keynote at AIDEM 2025 
-
-Date: 19 September 2025, Place: Porto, Portugal
-
-**From images to insights** — Matteo Magnani (Uppsala University), PolarVis researcher, openes [AIDEM 2025](https://aidem2025.isti.cnr.it/) with a keynote speech on how images shape political conversation online, and how computer vision can help decode their impact on democratic life. AIDEM, the International Workshop on Artificial Intelligence, Data Analytics and Democracy, gatheres researchers and practitioners to discuss how new technologies are transforming society and public debate. 
-
-In the keynote, Matteo elaborates how visual content, ranging from viral memes to images of protests, plays a central role in online political discourse. He highlights how contemporary computer vision methods can identify topics, narratives, and clusters in visual data, while also discussing potential misuses and the importance of ensuring these tools support rather than compromise communication research. 
-
-
-<br />
-<br />
-
-<hr/> <!-- Adds a horizontal line -->
-
-
 <img align="right" width="405" src="/assets/images/workshop1.PNG" />
 
 ### PolarVis Workshop II: Polarization, Visual Storytelling and Affective Connections on Climate Justice
@@ -65,20 +48,6 @@ The **first PolarVis workshop** takes place at the Research Centre for Social Sc
 
 <br />
 <br />
-
-
-<hr/> <!-- Adds a horizontal line -->
-
-
-### Research Talk:  How can AI help us understand our society? 
-
-Date: 04 December 2024, Place: Uppsala University, Sweden
-
-In this talk, Professor Matteo Magnani reflects on how Large Language Models (LLMs) can be used to analyse socially and politically relevant (visual) data and gives insights into learnings from the PolarVos research project. The talk can now be watched online: 
-
-<br />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZPvZHxT-U4?si=nY0HPNVZcp9EBA31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <hr/> <!-- Adds a horizontal line -->
