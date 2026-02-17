@@ -157,9 +157,12 @@
       fulltext:
       git:
 
-# Software 
+# Software
 
-- title: "TikTok API Client: A Python package for fetching TikTok video and comment metadata (Version 0.1.0)"
+- year: Software
+  publications:
+
+    - title: "TikTok API Client: A Python package for fetching TikTok video and comment metadata (Version 0.1.0)"
       type: "software"
       author: Peter Tolochko
       year: 2025
