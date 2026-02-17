@@ -17,8 +17,6 @@ excerpt: " "
 {% endif %}{% endfor %}
 {% endfor %}
 
-## Software
-
 {% for publist in site.data.publications %}{% for pub in publist.publications %}{% if pub.type == "software" %}
 **{{ pub.title }}**<br/>
 *{{ pub.author }}* ({{ pub.year }}){% if pub.url %} — [Link]({{ pub.url }}){% endif %}
