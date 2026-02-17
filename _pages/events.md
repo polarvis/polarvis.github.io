@@ -9,6 +9,25 @@ toc: false
 ---
 
 
+<br />
+
+<img align="right" width="405" src="/assets/images/workshop2.jpg" />
+
+### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
+
+Date: 11 March 2024, Place: Research Centre for Social Sciences, HUN-REN, Hungary 
+
+The **first PolarVis workshop** takes place at the Research Centre for Social Sciences at HUN-REN. Scholars, journalists and practitioners gather to discuss PolarVis findings about visual climate communication. Together, they explore and contribute to the [interactive social media dashboard](https://polarvis.github.io/dashboard/) that is developed as a result of the PolarVis research project.
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+<hr/> <!-- Adds a horizontal line -->
+
 <img align="right" width="405" src="/assets/images/workshop1.PNG" />
 
 ### PolarVis Workshop II: Polarization, Visual Storytelling and Affective Connections on Climate Justice
@@ -28,27 +47,3 @@ The PolarVis project invites activists, students, practitioners, and scholars to
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<hr/> <!-- Adds a horizontal line -->
-
-
-
-<img align="right" width="405" src="/assets/images/workshop2.jpg" />
-
-### PolarVis Workshop I: Polarized perspectives - opportunities and challenges for climate movements and civil society organisations in the visual arts
-
-Date: 11 March 2024, Place: Research Centre for Social Sciences, HUN-REN, Hungary 
-
-The **first PolarVis workshop** takes place at the Research Centre for Social Sciences at HUN-REN. Scholars, journalists and practitioners gather to discuss PolarVis findings about visual climate communication. Together, they explore and contribute to the [interactive social media dashboard](https://polarvis.github.io/dashboard/) that is developed as a result of the PolarVis research project.
-
-<br />
-<br />
-
-
-<hr/> <!-- Adds a horizontal line -->
-
