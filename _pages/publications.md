@@ -20,7 +20,7 @@ excerpt: " "
 {% endif %}
 {% endfor %}
 {% endfor %}
-
+ 
 ## Software
 
 {% for publist in site.data.publications %}
