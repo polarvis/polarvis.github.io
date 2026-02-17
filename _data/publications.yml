@@ -3,34 +3,36 @@
 - year: 2026
   publications:
   
-    - title: "Transnational Networks: A Case Study of Climate Activism and Counter-Activism on Facebook"
+    - title: "Network Analysis of Transnational Communication on Social Media: A Case Study of Climate Activism and Counter-Activism on Facebook"
       type: "chapter"  # or "book-chapter" or "incollection"
-      author: Luca Rossi and Nicola Rightetti
-      book: "The Handbook of Social and Communication Networks"
+      author: Luca Rossi and Nicola Righetti
+      book: "M. Bastos and L. Rossi (Eds): The Handbook of Social and Communication Networks"
       editors: "Rossi L., Bastos M."  
-      publisher: "Edward Edgar Publishing"
+      publisher: "Edward Elgar Publishing"
       year: 2026
       pages: 
       doi:
-      url: 
+      url: "https://www.e-elgar.com/shop/gbp/handbook-of-social-and-communication-networks-9781035325030.html"
       fulltext: 
       git:
+
+    - title: "Issue Networks"
+      type: "chapter"  # or "book-chapter" or "incollection"
+      author: Annie Waldherr, Peter Tolochko, and Nicola Righetti
+      book: "M. Bastos and L. Rossi (Eds): The Handbook of Social and Communication Networks"
+      editors: "Rossi L., Bastos M."  
+      publisher: "Edward Elgar Publishing"
+      year: 2026
+      pages: 
+      doi:
+      url: "https://www.e-elgar.com/shop/gbp/handbook-of-social-and-communication-networks-9781035325030.html"
+      fulltext: 
+      git:
+      
 
 - year: 2025
   publications:
   
-    - title: "Images of Nature in Online Climate Activism in Germany and Argentina:Science, Affect and Non-Human‘Everybodies"
-      type: "article"
-      author: Nicole Doerr & María Florencia Langa
-      journal: Journal for Development Studies
-      publisher: 
-      volume: 39, 3-4
-      number: 33-64. 
-      year: 2024
-      doi:
-      url: 
-      fulltext: 
-      git:
     - title: "Mapping and Measuring Polarization: An Embedding-Based Approach for Social Networks"
       type: "article"
       author: Petro Tolochko, Nicola Righetti, & Annie Waldherr
@@ -38,7 +40,7 @@
       publisher: 
       volume: 
       number: 
-      year: Forthcoming
+      year: forthcoming
       doi:
       url: 
       fulltext: 
@@ -46,13 +48,13 @@
     - title: "A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections."
       type: "article"
       author: Nicola Righetti, Petro Tolochko, Aytalina Kulichkina, Azade Esther Kakavand, Daisuke Nakamura, Yuru Li, Paul Pressmann, Stephanie Geise, and Annie Waldherr
-      journal: 
+      journal: ZeMKI Working Paper 
       publisher: 
-      volume: 
+      volume: 53
       number: 
-      year: Work in progress
+      year: 2025
       doi:
-      url: 
+      url: "https://zemki.uni-bremen.de/wp-content/uploads/2025/12/ZeMKI_EWP_53_Righetti_et-al.pdf"
       fulltext: 
       git:
     - title: "Climate Clash: A Multimodal Analysis of Movement - Countermovement Interactions in the Digital Sphere"
@@ -64,7 +66,7 @@
       number: 
       year: 2025
       doi:
-      url: 
+      url: "
       fulltext: 
       git:
     - title: "Visual digital intermediaries and global climate communication: Is climate change still a distant problem on YouTube?"
@@ -91,6 +93,18 @@
       url: 
       fulltext: 
       git:
+    - title: "Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change"
+      type: "article"
+      author: Luca Rossi, Alexandra Segerberg, Luigi Arminio and Matteo Magnani
+      journal: Environmental Communication, 19(3), 449–467.
+      publisher: 
+      volume: 
+      number: 
+      year: 2025
+      doi: 
+      url: "https://www.tandfonline.com/doi/full/10.1080/17524032.2024.2420787"
+      fulltext: 
+      git: 
       
 - year: 2024
   publications:
@@ -99,30 +113,19 @@
 
 
 
-    - title: "Global case studies on the far right’s politics of nature"
-      type: "chapter"  # or "book-chapter" or "incollection"
+    - title: "Global case studies on the far right’s politics of nature: Bernard Forchner (ed.), Visualizing Far-Right Environments: Communication and the Politics of Nature."
+      type: ""article"
       author: Dániel Oross
-      book: "Visualizing Far-Right Environments: Communication and the Politics of Nature. Global Studies of the Far Right Series."
-      editors: "Bernard Forchner"  
-      publisher: "Manchester: Manchester University Press"
-      year: 2026
+      journal: "Patterns of Prejudice"
+      publisher: 
+      volume: 58
+      number: 2-3
+      year: 2024
       pages: "283–284"
       doi:
       url: "https://doi.org/10.1080/0031322X.2025.2504835"
       fulltext: 
       git:
-    - title: "Do You See What I See? Emotional Reaction to Visual Content in the Online Debate About Climate Change"
-      type: "article"
-      author: Luca Rossi, Alexandra Segerberg, Luigi Arminio and Matteo Magnani
-      journal: Environmental Communication, 19(3), 449–467.
-      publisher: 
-      volume: 
-      number: 
-      year: 2024
-      doi: 
-      url: "https://www.tandfonline.com/doi/full/10.1080/17524032.2024.2420787"
-      fulltext: 
-      git: 
     - title: "Which Reveals Ideology Better? Comparing Self-Presentation and Public Rhetoric in the Facebook Climate Debate via Embeddings Analysis"
       type: "in-proceedings"
       author: Luigi Arminio and Luca Rossi
@@ -153,3 +156,16 @@
       url: "https://link.springer.com/chapter/10.1007/978-3-031-85240-4_25"
       fulltext:
       git:
+
+# Software 
+
+- title: "TikTok API Client: A Python package for fetching TikTok video and comment metadata (Version 0.1.0)"
+      type: "software"
+      author: Peter Tolochko
+      year: 2025
+      url: "https://doi.org/10.5281/zenodo.16566437"
+
+    - title: "Python Package for Network Polarisation Measurement using Graph Embeddings"
+      type: "software"
+      author: Peter Tolochko
+      year: Forthcoming
