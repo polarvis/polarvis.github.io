@@ -15,7 +15,6 @@
       url: "https://www.e-elgar.com/shop/gbp/handbook-of-social-and-communication-networks-9781035325030.html"
       fulltext: 
       git:
-
     - title: "Issue Networks"
       type: "chapter"  # or "book-chapter" or "incollection"
       author: Annie Waldherr, Peter Tolochko, and Nicola Righetti
@@ -28,11 +27,6 @@
       url: "https://www.e-elgar.com/shop/gbp/handbook-of-social-and-communication-networks-9781035325030.html"
       fulltext: 
       git:
-      
-
-- year: 2025
-  publications:
-  
     - title: "Mapping and Measuring Polarization: An Embedding-Based Approach for Social Networks"
       type: "article"
       author: Petro Tolochko, Nicola Righetti, & Annie Waldherr
@@ -45,6 +39,11 @@
       url: 
       fulltext: 
       git:
+      
+
+- year: 2025
+  publications:
+  
     - title: "A Longitudinal Approach to Social Media Engagement: The Case of Anger-Driven Climate-Skeptic Message Propagation During the 2021 German Elections."
       type: "article"
       author: Nicola Righetti, Petro Tolochko, Aytalina Kulichkina, Azade Esther Kakavand, Daisuke Nakamura, Yuru Li, Paul Pressmann, Stephanie Geise, and Annie Waldherr
