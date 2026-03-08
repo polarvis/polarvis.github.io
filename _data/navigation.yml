@@ -4,6 +4,8 @@ main:
     url: "https://polarvis.github.io"
   - title: "Research"
     url: /research/
+  - title: "Summary"
+    url: /summary/
   - title: "Publications"
     url: /publications/  
   - title: "Team"
@@ -14,8 +16,6 @@ main:
     url: /guidelines/  
   - title: "Podcast"
     url: /podcast/
-  - title: "Summary"
-    url: /summary/
   - title: "Events"
     url: /events/
   - title: "Contact"
