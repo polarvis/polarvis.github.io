@@ -1,13 +1,13 @@
 ---
 layout: infolab-toplevel
-title: Summary
+title: Project Summary
 permalink: /summary/
 header:
   overlay_image: /assets/images/water.jpg
   overlay_filter: "0.7"
 ---
 
-## Project Summary 
+## What is PolarVis all about?
 
 PolarVis addresses the relationship between two pressing phenomena: networked visual persuasion and
 societal polarisation. Online communication is increasingly ‘visual first’, and images, videos, and memes
