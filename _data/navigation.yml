@@ -14,6 +14,8 @@ main:
     url: /guidelines/  
   - title: "Podcast"
     url: /podcast/
+  - title: "Summary"
+    url: /summary/
   - title: "Events"
     url: /events/
   - title: "Contact"
